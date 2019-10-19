@@ -9,7 +9,7 @@ order: 1
 
 #### [Joydeep Biswas](https://www.joydeepb.com/)
 
-| ![Joydeep Biswas](assets/images/people/joydeepb.jpg) | Assistant Professor, College of Information and Computer Sciences, UMass Amherst. Prior to joining UMass in 2015, I was a postdoctoral fellow in the Computer Science Department at Carnegie Mellon University. I received my PhD in Robotics in 2014 from Carnegie Mellon University, and my B.Tech in Engineering Physics in 2008 from the Indian Institute of Technology, Bombay. My ultimate goal is to have self-sufficient autonomous mobile robots working in human environments, performing tasks accurately and robustly. In support of this goal, I am interested in research in perception, planning, and control applied to autonomous mobile robots.|
+|![Joydeep Biswas](assets/images/people/joydeepb.jpg) | Assistant Professor, Computer Science Department, UT Austin; Adjunct Assistant Professor, College of Information and Computer Sciences, UMass Amherst. I received my PhD in Robotics in 2014 from Carnegie Mellon University, and my B.Tech in Engineering Physics in 2008 from the Indian Institute of Technology, Bombay. My ultimate goal is to have self-sufficient autonomous mobile robots working in human environments, performing tasks accurately and robustly. In support of this goal, I am interested in research in perception, planning, and control applied to autonomous mobile robots.|
 {: .people_table_hack}
 
 ---
