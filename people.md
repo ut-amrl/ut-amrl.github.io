@@ -33,9 +33,7 @@ order: 1
 
 #### [Sadegh Rabiee](http://www.cs.utexas.edu/~srabiee/)
 
-| ![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | I received a B.Sc. in Electrical Engineering at the University of Tehran in 2015 and a M.Sc. in Computer Science from the
-College of Information and Computer Sciences at UMass Amherst in 2018. I am now in the PhD program
-at the Department of Computer Science at UT Austin. I am interested in safe navigation for mobile robots via accurate motion models and perception algorithms that are competence-aware. |
+|![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | I received a B.Sc. in Electrical Engineering at the University of Tehran in 2015 and a M.Sc. in Computer Science from the College of Information and Computer Sciences at UMass Amherst in 2018. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested in safe navigation for mobile robots via accurate motion models and perception algorithms that are competence-aware. |
 {: .people_table_hack}
 
 #### Alyx Burns
