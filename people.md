@@ -31,9 +31,11 @@ order: 1
 |![Samer Nashed](assets/images/people/samer_nashed.jpg) | Originally from Maine, I graduated in 2015 from Swarthmore College with degrees Physics and Computer Science. I am now in the MS/PhD program here at UMass and am working on a number of projects, with topics including mapping, navigation, calibration, and electromechanical design. |
 {: .people_table_hack}
 
-#### [Sadegh Rabiee](http://people.cs.umass.edu/srabiee)
+#### [Sadegh Rabiee](http://www.cs.utexas.edu/~srabiee/)
 
-| ![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | I received my B.Sc. in electrical engineering at the University of Tehran in 2015. I am now on the MS/PhD track in the College of Information and Computer Sciences at UMass. I am interested in safe navigation for mobile robots via accurate motion models and perception algorithms that are competency-aware. |
+| ![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | I received a B.Sc. in Electrical Engineering at the University of Tehran in 2015 and a M.Sc. in Computer Science from the
+College of Information and Computer Sciences at UMass Amherst in 2018. I am now in the PhD program
+at the Department of Computer Science at UT Austin. I am interested in safe navigation for mobile robots via accurate motion models and perception algorithms that are competence-aware. |
 {: .people_table_hack}
 
 #### Alyx Burns
