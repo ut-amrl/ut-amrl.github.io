@@ -13,11 +13,11 @@ Our research spans three broad themes:
 
 1. **Perception for long-term autonomy**, including long-term vector mapping, human-in-the-loop SLAM, and robust vision-only navigation
 1. **Failure recovery for deployed robots**, including automated multi-sensor recalibration
-1. **Multi-agent navigation and motion planning**,  including high-speed multiagent navigation in adverserial domains, and time-optimal control.
+1. **Multi-agent navigation and motion planning**, including high-speed multiagent navigation in adversarial domains, and time-optimal control.
 
 #### Code
 
-All of the public code associated with our research can be found at [https://github.com/umass-amrl/]( https://github.com/umass-amrl/).
+All of the public code associated with our research can be found at [https://github.com/ut-amrl/](https://github.com/ut-amrl/).
 
 ### Projects
 
@@ -28,11 +28,10 @@ All of the public code associated with our research can be found at [https://git
 
 ---
 
-#### Instrospective Vision for Obstacle Avoidance (IVOA)
+#### Introspective Vision for Obstacle Avoidance (IVOA)
 
 | ![IVOA](assets/images/research/iVOA.JPG) | Vision, as an inexpensive yet information rich sensor, is commonly used for perception on autonomous mobile robots. However, vision systems are prone to errors from various sources such as image saturation, blur, and texture-less scenes. In this project, we develop an approach for self-supervised learning of a model that can predict failures of stereo vision-based obstacle avoidance systems. The learned model predicts the probability of different types of failure (false positive and false negative) and pinpoints the location of the error on the input image. ([More Information](papers/iVOA.pdf)). |
 {: .research_table_hack}
-
 
 ---
 
@@ -62,7 +61,6 @@ All of the public code associated with our research can be found at [https://git
 | ![SLAM1](assets/images/research/jpp1.png) ![SLAM1](assets/images/research/jpp2.png) | This research focuses on integrated planning and perception for local obstacle avoidance using stereo RGB cameras for autonomous mobile robots. By integrating planning and perception, we expect to significantly reduce the computational requirements for safe navigation, while still remaining robust to arbitrary obstacles in the robot’s path. The test platform for this research is a Clearpath Jackal UGV. ([GitHub repository](https://github.com/umass-amrl/jpp)). |
 {: .research_table_hack}
 
-
 ---
 
 #### Delta Calibration
@@ -70,10 +68,14 @@ All of the public code associated with our research can be found at [https://git
 | [![Delta Calibration Video](assets/images/research/deltacalvideo.jpg)](https://youtu.be/xYmHMPCJhGA) | Delta-Calibration is an automatic method for extrinsic calibration of sensors based on ego-motion. Delta-Calibration involves a closed form solution to the extrinsic calibration given necessary ego-motions performed by rigid bodies of connected sensors. An optimization based solution to Delta-Calibration can calculate even with limited axes of ego-motion, and limited information in the environment. ([GitHub repository](https://github.com/umass-amrl/DeltaCalibration)). |
 {: .research_table_hack}
 
+---
+
 #### [Automatic State Machine Debugging](srtr.html)
 
 | ![SRTR](assets/images/research/srtr.png) An example failure case from the Robocup Small Sized League domain. Blue lines represent the robot path, and orange lines the ball path. The left image shows a failure case in which the robot fails to transition into the kick state, while the right image shows the desired behavior. | State machines are a common tool for building controllers for various robotic tasks. The effectiveness of a state machine is often dependent on the parameters used for transition and emissions, and in many cases these parameters are a source of human introduced error. The goal of this research is to create a system which does the following: 1) Identifies state machines and extract their parameters from source code using static analysis. 2) Detects faults in these state machines via anomaly detection or domain-specific error functions. 3) Identifies a modification to the transition and emission parameters for the state machine that corrects the error. ([More Information](srtr.html)). |
 {: .research_table_hack}
+
+---
 
 #### Time-Optimal Control For Omnidirectional Robots
 
@@ -84,7 +86,7 @@ All of the public code associated with our research can be found at [https://git
 
 #### Graph Planning in Dynamic Adversarial Multi-Agent Domains
 
-| ![Scaffolding](assets/images/research/scaffold.png) | One of the common approaches to motion planning in continuous space is to discretize the search space using a graph or tree and search over that reduced space. There are many approaches and decompositions that aid in constructing such graphs. In order to supplement these existing graph planning algorithms in dynamic domains with moving obstacles, we introduce strategies for supplementing probabilistic roadmaps with dynamic obstacle-dependent sub-graphs to aid in the search of high-quality paths while requiring only a coarse offline graph. ([More Information](//www.joydeepb.com/Publications/planrob2017_scaffold.pdf).)      |
+| ![Scaffolding](assets/images/research/scaffold.png) | One of the common approaches to motion planning in continuous space is to discretize the search space using a graph or tree and search over that reduced space. There are many approaches and decompositions that aid in constructing such graphs. In order to supplement these existing graph planning algorithms in dynamic domains with moving obstacles, we introduce strategies for supplementing probabilistic roadmaps with dynamic obstacle-dependent sub-graphs to aid in the search of high-quality paths while requiring only a coarse offline graph. ([More Information](//www.joydeepb.com/Publications/planrob2017_scaffold.pdf)). |
 {: .research_table_hack}
 
 ---
@@ -92,4 +94,11 @@ All of the public code associated with our research can be found at [https://git
 #### Multiple Model Learning for Ground Robots
 
 | [![Multi modal learning](assets/images/research/multimodel.jpg)](https://youtu.be/DgxCvT-bU4A) ![Multi modal learning](assets/images/research/multimodel2.jpg) | Having an accurate motion model for a robot is equivalent to being able to accurately predict the behavior of the robot, which in turn provides the means for accurate control. Learning a motion model could be achieved through various system identification methods, which essentially train a function approximator for this purpose. However, the dynamics of a robot could not always be expressed within one single model, or in order for a single model to be complex and expressive enough, one should train it with extensive amount of training data. We approach this problem by breaking it into smaller pieces and learn multiple simple models rather than one single complex model. The robot could then switch between these models and choose the appropriate one at each time. We apply this method to the case of a ground robot and show how multiple models could be learned for different types of terrain to improve the overall motion model accuracy for the robot.|
+{: .research_table_hack}
+
+---
+
+#### Making High-Performance Robots Accessible
+
+| [![Robot maze with monster](assets/images/research/jsBots.png)](https://www.instagram.com/p/BzrYJI9hTBI/) | Our robots present an array of interesting research problems, as evidence by what is described here. Given their intriguing capabilities, we desired to share them with novices. In order to make this possible, we had to ensure safety of both users and robots as well as a much easier development experience. This involved significant engineering in building out a carefully designed layer of abstraction on top of the existing [Minutebots](/minutebots) codebase. Further efforts made programming and viewing the robots possible solely in a Web browser. We put our system to the test in running a week-long outreach workshop for HS students. A video of a student-written program navigating through a maze with a monster is linked to the left. See our [GitHub repository](https://github.com/ut-amrl/robo-js) for more information. |
 {: .research_table_hack}
