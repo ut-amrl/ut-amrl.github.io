@@ -24,7 +24,6 @@ color: black;
   <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/robocup_2017_scaled.jpg"></div>
   <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/robocup_robots_scaled.jpg"></div>
   <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/jackal_grass_scaled.jpg"></div>
-  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/robocup_robots_scaled.jpg"></div>
 </div>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -59,4 +58,3 @@ The AMRL is comprised of students, robots, and facilities across two
 universities - the Computer Science department
 at UT Austin, and the College of Information and Computer Sciences, University
 of Massachusetts Amherst.
-
