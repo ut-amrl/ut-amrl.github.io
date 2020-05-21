@@ -21,24 +21,9 @@ order: 1
 |![Jarrett Holtz](assets/images/people/jarrett_holtz.jpg) | I graduated from Vassar College with a degree in Computer Science before moving to the MS/PhD program at UMass Amherst and the Autonomous Mobile Robotics Laboratory. I'm working in robotics because I'm passionate about seeing robotics systems become commonplace as applied to a wide range of problems outside of just research environments. My research interests are in Robotics, Computer Vision, Artificial Intelligence and Software Engineering, with a focus on research that makes robots more adaptive to changes in themselves and the environment.|
 {: .people_table_hack}
 
-#### Spencer Lane
-
-|![Spencer Lane](assets/images/people/spencer_lane.jpg) | I am a Ph.D. student here at UMass Amherst. I received a B.S. in Modeling and Simulation Engineering from Old Dominion University in 2013 and an S.M. in Aeronautics and Astronautics in 2016. I am interested in Multi-Agent Planning, Human Robot Interaction, and Machine Learning.|
-{: .people_table_hack}
-
-#### Samer Nashed
-
-|![Samer Nashed](assets/images/people/samer_nashed.jpg) | Originally from Maine, I graduated in 2015 from Swarthmore College with degrees Physics and Computer Science. I am now in the MS/PhD program here at UMass and am working on a number of projects, with topics including mapping, navigation, calibration, and electromechanical design. |
-{: .people_table_hack}
-
 #### [Sadegh Rabiee](http://www.cs.utexas.edu/~srabiee/)
 
 |![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | I received a B.Sc. in Electrical Engineering at the University of Tehran in 2015 and a M.Sc. in Computer Science from the College of Information and Computer Sciences at UMass Amherst in 2018. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested in safe navigation for mobile robots via accurate motion models and perception algorithms that are competence-aware. |
-{: .people_table_hack}
-
-#### Alyx Burns
-
-|![Alyx Burns](assets/images/people/alyx_burns.jpg) | I graduated in 2017 from Mount Holyoke College with a major in Computer Science and a minor in Theater. I am now a MS/PhD student interested in multi-agent systems, computer vision, and social robotics.|
 {: .people_table_hack}
 
 ---
@@ -51,26 +36,7 @@ order: 1
 
 ---
 
-### Research Assistants
-
-#### [Kyle Vedder](http://vedder.io)
-
-| ![Kyle Vedder](assets/images/people/kyle_vedder.jpg) | I graduated with a B.S. in Computer Science from UMass Amherst in 2018. I am now a Research Assistant in AMRL. My research interests include single and multiagent planning/scheduling, safe control in dynamic environments, manipulation, and building tools to make robot controllers robust. |
-{: .people_table_hack}
-
----
-
 ### Undergraduate Students
-
-#### Alex Fischer
-
-| ![Alex Fischer](assets/images/people/alex_fischer.jpg) |  I am an undergraduate studying computer science and math at UMass. My interests lie in the intersection of mathematics and computer science, including control theory, computer vision, and artificial intelligence. |
-{: .people_table_hack}
-
-#### Edward Schneeweiss
-
-| ![Edward Schneeweiss](assets/images/people/eddy_schneeweiss.jpg) | I am an undergraduate at UMass, and I joined AMRL in 2015 having had some prior experience from running a VEX robotics club for 5 years. LightSpeed robotics won several state championships and participated in two World Championships. My interests are in all software and hardware aspects of robots with a particular interest in swarm robotics and the associated autonomous control challenges. |
-{: .people_table_hack}
 
 #### John Bachman
 
@@ -79,13 +45,44 @@ order: 1
 
 ---
 
-### Alumni 
-#### George Larianov
+### Previous Members
 
-|![George Larianov](assets/images/people/george_larionov.jpg) | I am an undergrad Computer Science student here at UMass, and I am interested in speech recognition using neural networks, as well as effective human-robot interaction.|
+#### [Kyle Vedder](http://vedder.io)
+
+| ![Kyle Vedder](assets/images/people/kyle_vedder.jpg) | PhD student at University of Pennsylvania |
+{: .people_table_hack}
+
+#### Alex Fischer
+
+| ![Alex Fischer](assets/images/people/alex_fischer.jpg) |  Software Engineer at Microsoft |
+{: .people_table_hack}
+
+#### Alyx Burns
+
+|![Alyx Burns](assets/images/people/alyx_burns.jpg) | PhD student at UMass Amherst|
+{: .people_table_hack}
+
+#### Edward Schneeweiss
+
+| ![Edward Schneeweiss](assets/images/people/eddy_schneeweiss.jpg) | MS student at UMass Amherst |
+{: .people_table_hack}
+
+#### Spencer Lane
+
+|![Spencer Lane](assets/images/people/spencer_lane.jpg) | PhD student at UMass Amherst|
+{: .people_table_hack}
+
+#### Samer Nashed
+
+|![Samer Nashed](assets/images/people/samer_nashed.jpg) | PhD student at UMass Amherst|
+{: .people_table_hack}
+
+#### George Larionov
+
+|![George Larianov](assets/images/people/george_larionov.jpg) | MS student at Carnegie Mellon University |
 {: .people_table_hack}
 
 #### Sourish Ghosh
 
-|![Sourish Ghosh](assets/images/people/sourish_ghosh.jpg)| I am a junior undergraduate at IIT Kharagpur, majoring in Mathematics and Computing. My research interests lie in the intersection of computer vision and robotics, and I was a visiting student at AMRL during summer 2016.|
+|![Sourish Ghosh](assets/images/people/sourish_ghosh.jpg)| PhD student at Carnegie Mellon University |
 {: .people_table_hack}
