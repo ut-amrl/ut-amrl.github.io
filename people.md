@@ -26,6 +26,11 @@ order: 1
 |![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | I received a B.Sc. in Electrical Engineering at the University of Tehran in 2015 and a M.Sc. in Computer Science from the College of Information and Computer Sciences at UMass Amherst in 2018. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested in safe navigation for mobile robots via accurate motion models and perception algorithms that are competence-aware. |
 {: .people_table_hack}
 
+#### Emily Pruc
+
+|![Emily Pruc](assets/images/people/emily_pruc.jpg)  | I graduated from Brandeis University in 2015 with degrees in Physics and Chemistry. I then began working with the Autonomous Mobile Robotics Lab in the summer of 2018. I am currenlty enrolled in the College of Information and Computer Science MS/PhD program at the University of Massachusetts Amherst. My research interests include Robotics, Machine Learning, and Artificial Intelligence. |
+{: .people_table_hack}
+
 ---
 ### Masters Students
 
