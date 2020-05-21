@@ -50,6 +50,11 @@ order: 1
 | ![John Bachman](assets/images/people/john_bachman.jpg) | I am an undergraduate majoring in Computer Science at UMass. I have been studying in AMRL since the fall of 2019. My area of interest is robotic perception and computer vision. Particularly, I work on the SLAM problem and integrating new forms of sensory data as additional constraints. |
 {: .people_table_hack}
 
+#### Tongrui Li
+
+| ![Tongrui Li](assets/images/people/tongrui_li.jpg) | I am an undergraduate studying computer science at UT Austin and joined AMRL at Summer of 2020. I am currently working on creating new controllers that handles multiple robots in the same environment. |
+{: .people_table_hack}
+
 ---
 
 ### Previous Members
