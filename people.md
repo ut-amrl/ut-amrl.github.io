@@ -48,6 +48,11 @@ order: 1
 | ![John Bachman](assets/images/people/john_bachman.jpg) | I am an undergraduate majoring in Computer Science at UMass. I have been studying in AMRL since the fall of 2019. My area of interest is robotic perception and computer vision. Particularly, I work on the SLAM problem and integrating new forms of sensory data as additional constraints. |
 {: .people_table_hack}
 
+#### [Logan Zartman](https://zartman.org)
+
+| ![Logan Zartman](assets/images/people/logan_zartman.jpg) | I have a B.S. in Computer Science from UT Austin. I joined AMRL after participating in CS 378 Autonomous Driving. I'm working on developing a new web-based, multi-robot interface. My interests include web, graphics, and interactivity.
+{: .people_table_hack}
+
 ---
 
 ### Previous Members
@@ -81,6 +86,8 @@ order: 1
 
 |![Samer Nashed](assets/images/people/samer_nashed.jpg) | PhD student at UMass Amherst|
 {: .people_table_hack}
+
+---
 
 #### George Larionov
 
