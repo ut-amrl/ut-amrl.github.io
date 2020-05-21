@@ -60,6 +60,11 @@ order: 1
 | ![Tongrui Li](assets/images/people/tongrui_li.jpg) | I am an undergraduate studying computer science at UT Austin and joined AMRL at Summer of 2020. I am currently working on creating new controllers that handles multiple robots in the same environment. | 
 {: .people_table_hack}
 
+#### [Simon Andrews](https://simonandrews.org/)
+
+| ![Simon Andrews](assets/images/people/simon_andrews.jpg) | I am an undergraduate student majoring in computer science and mathematics at UMass Amherst. I'm currently working on applying program synthesis techniques to robotics. |
+{: .people_table_hack}
+
 ---
 
 ### Previous Members
