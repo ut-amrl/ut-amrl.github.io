@@ -42,10 +42,6 @@ order: 1
 {: .people_table_hack}
 
 ---
-### Masters Students
-
-
----
 
 ### Undergraduate Students
 
