@@ -50,9 +50,14 @@ order: 1
 | ![John Bachman](assets/images/people/john_bachman.jpg) | I am an undergraduate majoring in Computer Science at UMass. I have been studying in AMRL since the fall of 2019. My area of interest is robotic perception and computer vision. Particularly, I work on the SLAM problem and integrating new forms of sensory data as additional constraints. |
 {: .people_table_hack}
 
+#### [Logan Zartman](https://zartman.org)
+
+| ![Logan Zartman](assets/images/people/logan_zartman.jpg) | I have a B.S. in Computer Science from UT Austin. I joined AMRL after participating in CS 378 Autonomous Driving. I'm working on developing a new web-based, multi-robot interface. My interests include web, graphics, and interactivity. |
+{: .people_table_hack}
+
 #### Tongrui Li
 
-| ![Tongrui Li](assets/images/people/tongrui_li.jpg) | I am an undergraduate studying computer science at UT Austin and joined AMRL at Summer of 2020. I am currently working on creating new controllers that handles multiple robots in the same environment. |
+| ![Tongrui Li](assets/images/people/tongrui_li.jpg) | I am an undergraduate studying computer science at UT Austin and joined AMRL at Summer of 2020. I am currently working on creating new controllers that handles multiple robots in the same environment. | 
 {: .people_table_hack}
 
 ---
