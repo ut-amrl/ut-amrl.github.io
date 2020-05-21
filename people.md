@@ -31,13 +31,19 @@ order: 1
 |![Emily Pruc](assets/images/people/emily_pruc.jpg)  | I graduated from Brandeis University in 2015 with degrees in Physics and Chemistry. I then began working with the Autonomous Mobile Robotics Lab in the summer of 2018. I am currenlty enrolled in the College of Information and Computer Science MS/PhD program at the University of Massachusetts Amherst. My research interests include Robotics, Machine Learning, and Artificial Intelligence. |
 {: .people_table_hack}
 
----
-### Masters Students
-
 #### David Balaban
 
 | ![David Balaban](assets/images/people/david_balaban.jpg) | I graduated from UMass in 2016 with two Bachelor of Science degrees, one in Physics and one in Computer Science and a minor in Mathematics. I am now a graduate student at UMass pursuing a Masters degree in Computer Science. My research interests are in Robotics and Optimal Control, Robot Autonomy, Artificial Intelligence and Machine Learning. My long-term career goal is to work to make space exploration more accessible through autonomous robotic technologies. |
 {: .people_table_hack}
+
+#### Kavan Sikand
+
+|![Kavan Sikand](assets/images/people/kavan_sikand.jpg)  | I graduated from UC Berkeley in 2015 with a degree in Electrical Engineering and Computer Sciences. I began working with the Autonomous Mobile Robotics Lab when I started my PhD at UT Austin in fall of 2019. My research interests include Machine Learning, Computer Vision, and Robotics. |
+{: .people_table_hack}
+
+---
+### Masters Students
+
 
 ---
 
@@ -46,11 +52,6 @@ order: 1
 #### John Bachman
 
 | ![John Bachman](assets/images/people/john_bachman.jpg) | I am an undergraduate majoring in Computer Science at UMass. I have been studying in AMRL since the fall of 2019. My area of interest is robotic perception and computer vision. Particularly, I work on the SLAM problem and integrating new forms of sensory data as additional constraints. |
-{: .people_table_hack}
-
-#### [Logan Zartman](https://zartman.org)
-
-| ![Logan Zartman](assets/images/people/logan_zartman.jpg) | I have a B.S. in Computer Science from UT Austin. I joined AMRL after participating in CS 378 Autonomous Driving. I'm working on developing a new web-based, multi-robot interface. My interests include web, graphics, and interactivity.
 {: .people_table_hack}
 
 ---
@@ -86,8 +87,6 @@ order: 1
 
 |![Samer Nashed](assets/images/people/samer_nashed.jpg) | PhD student at UMass Amherst|
 {: .people_table_hack}
-
----
 
 #### George Larionov
 
