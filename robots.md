@@ -23,7 +23,7 @@ order: 2
 
 ---
 
-#### UT AutoMATA
+#### [UT AutoMATA](automata.html)
 
 |![F1Tenth](assets/images/robots/automata_single.jpg) | The UT AutoMATA are used for both instruction and for planning & perception research in indoor environments. More information on these autonomous f1tenth scale cars can be found here.|
 {: .robots_table_hack}
@@ -37,7 +37,7 @@ order: 2
 
 ---
 
-#### UMass MinuteBots - Small Size Soccer Robots
+#### [UMass MinuteBots - Small Size Soccer Robots](minutebots.html)
 
 | [![UMass Minutebots Video](assets/images/robots/minutebotsvideo.jpg)](https://youtu.be/pJw_yZ2q7Jg) | RoboCup Small Size League. The robots are 180mm in diameter and under 15cm tall, and can travel up to 5 m/s and kick, chip-kick, and dribble a golf ball. The robots are centrally controlled via radio, and perception is using an overhead vision system, [SSL-Vision](https://github.com/RoboCup-SSL/ssl-vision). We competed in our first international tournament in Nagoya, Japan in 2017, where we took first place in the lower bracket, and competed in our second tournament in Montreal, Canada in 2018, where we tied for fifth place in Division A. The RoboCup team is an important platform for ongoing research in the lab on topics such as automatic debugging, time-optimal control, and graph planning in adversarial domains. |
 {: .robots_table_hack}
