@@ -1,7 +1,7 @@
 ---
 title: UMass MinuteBots
 layout: default
-exclude: false
+exclude: true
 order: 5
 ---
 
