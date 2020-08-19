@@ -46,6 +46,11 @@ order: 1
 |![Kavan Sikand](assets/images/people/kavan_sikand.jpg)  | I graduated from UC Berkeley in 2015 with a degree in Electrical Engineering and Computer Sciences. I began working with the Autonomous Mobile Robotics Lab when I started my PhD at UT Austin in fall of 2019. My research interests include Machine Learning, Computer Vision, and Robotics. |
 {: .people_table_hack}
 
+#### Amanda Adkins
+
+|![Amanda Adkins](assets/images/people/amanda_adkins.jpg)  | I graduated from WPI in 2016 with a double major in Computer Science and Robotics Engineering. From 2016 to 2020, I worked at Amazon Robotics as a software development engineer. I joined AMRL and the Computer Science PhD program at UT Austin in fall 2020. My research interests include robotics, computer vision, and machine learning, with a focus on robotic perception for long-term autonomy. |
+{: .people_table_hack}
+
 ---
 
 ### Undergraduate Students
