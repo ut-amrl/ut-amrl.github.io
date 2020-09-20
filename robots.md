@@ -11,14 +11,14 @@ order: 2
 
 #### Clearpath Jackal - UT/UMass
 
-|![Jackal](assets/images/robots/jackal_photo.jpg) | The Jackal is used for research on campus-scale long-term autonomy at both UT and UMass. It is equipped with a stereo vision system and inertial sensors, as well as LiDAR and high-precision GPS tracking. |
+|![Jackal](assets/images/robots/Jackal.png) | The Jackal is used for research on campus-scale long-term autonomy at both UT and UMass. It is equipped with a stereo vision system and inertial sensors, as well as LiDAR and high-precision GPS tracking. |
 {: .robots_table_hack}
 
 ---
 
 #### Clearpath Husky - UT
 
-|![Husky](assets/images/robots/husky_stock_photo.jpg) | The Husky is used for research on campus-scale long-term autonomy at UT. It is equipped with a stereo vision system and inertial sensors, as well as LiDAR and high-precision GPS tracking. |
+|![Husky](assets/images/robots/Husky.png) | The Husky is used for research on campus-scale long-term autonomy at UT. It is equipped with a stereo vision system and inertial sensors, as well as LiDAR and high-precision GPS tracking. |
 {: .robots_table_hack}
 
 ---
@@ -32,7 +32,7 @@ order: 2
 
 #### UT Cobot
 
-|![Cobot](assets/images/robots/cobot_photo.png) | The Cobot is used for research on localization, perception, and human interaction in indoor environments at UT. It is equipped with a depth sensor, a monocular camera, a 2d LiDAR scanner, an onboard laptop with a graphical user interface for human interaction. |
+|![Cobot](assets/images/robots/cobot.jpg) | The Cobot is used for research on localization, perception, and human interaction in indoor environments at UT. It is equipped with a depth sensor, a monocular camera, a 2d LiDAR scanner, an onboard laptop with a graphical user interface for human interaction. |
 {: .robots_table_hack}
 
 ---
