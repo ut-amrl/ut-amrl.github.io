@@ -19,11 +19,13 @@ color: black;
 </style>
 
 <div class="main_carousel">
-  <div><img class="center-image" src="./assets/images/slideshow/amrl_panorama.jpg"></div>
-  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/group_photo_scaled.jpg"></div>
-  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/robocup_2017_scaled.jpg"></div>
-  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/robocup_robots_scaled.jpg"></div>
-  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/slideshow/jackal_grass_scaled.jpg"></div>
+  <div><img class="center-image" src="./assets/images/robots/AHG_Ribbon_Cutting.jpg"></div>
+  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/smads.png"></div>
+  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/jackal_navigation.png"></div>
+  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/spot_stairs.png"></div>
+  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/ut_automata.png"></div>
+  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/automata_group.jpg"></div>
+  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/jackal_husky.jpg"></div>
 </div>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
