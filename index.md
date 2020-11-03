@@ -25,7 +25,6 @@ color: black;
   <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/spot_stairs.png"></div>
   <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/ut_automata.png"></div>
   <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/automata_group.jpg"></div>
-  <div style="visibility: hidden;"><img class="center-image" src="./assets/images/robots/jackal_husky.jpg"></div>
 </div>
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
