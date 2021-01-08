@@ -9,6 +9,13 @@ order: 2
 
 ---
 
+#### [UT-AUTOmata](automata.html)
+
+|![F1Tenth](assets/images/robots/automata_single.jpg) | The UT AutoMATA are used for both instruction and for planning & perception research in indoor environments. More information on these autonomous f1tenth scale cars can be found here.|
+{: .robots_table_hack}
+
+---
+
 #### Clearpath Jackal - UT/UMass
 
 |![Jackal](assets/images/robots/Jackal.png) | The Jackal is used for research on campus-scale long-term autonomy at both UT and UMass. It is equipped with a stereo vision system and inertial sensors, as well as LiDAR and high-precision GPS tracking. |
@@ -23,9 +30,9 @@ order: 2
 
 ---
 
-#### [UT-AUTOmata](automata.html)
+#### Boston Dynamics Spot - UT
 
-|![F1Tenth](assets/images/robots/automata_single.jpg) | The UT AutoMATA are used for both instruction and for planning & perception research in indoor environments. More information on these autonomous f1tenth scale cars can be found here.|
+|[![Spot](assets/images/robots/spot_stairs.png)](https://youtu.be/1etx-VMDTCA)  | The Spot used for research on campus-scale long-term autonomy at UT. It is equipped with LIDAR, a multi-directional suite of cameras, and is able to traverse terrain that is probitive to wheeled robots. |
 {: .robots_table_hack}
 
 ---
