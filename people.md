@@ -14,6 +14,13 @@ order: 1
 
 ---
 
+### Research Engineers
+
+#### Maxwell Svetlik
+|![Maxwell Svetlik](assets/images/people/maxwell_svetlik.jpg) | I graduated from the University of Texas at Austin in with a Bachelors degree in 2016. Since then I've been in Robotics Engineering roles in industry with the umbrella goal of getting robots to perform in real world environments. I continue this goal at UT-AMRL and other UT Robotics labs by supporting fundamental research and making developed methods accessible to stakeholders. 
+{: .people_table_hack}
+
+
 ### Ph.D. Students
 
 #### Jarrett Holtz
