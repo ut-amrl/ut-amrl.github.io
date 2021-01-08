@@ -85,9 +85,9 @@ order: 1
 ### Previous Members
 ---
 
-#### [Kyle Vedder](http://vedder.io)
+#### [John Bachman](https://thecynosure.github.io/)
 
-| ![Kyle Vedder](assets/images/people/kyle_vedder.jpg) | PhD student at University of Pennsylvania |
+| ![John Bachman](assets/images/people/john_bachman.jpg) | Software Engineer at Amazon Robotics |
 {: .people_table_hack}
 
 #### Alex Fischer
@@ -95,14 +95,24 @@ order: 1
 | ![Alex Fischer](assets/images/people/alex_fischer.jpg) |  Software Engineer at Microsoft |
 {: .people_table_hack}
 
-#### Alyx Burns
-
-|![Alyx Burns](assets/images/people/alyx_burns.jpg) | PhD student at UMass Amherst|
-{: .people_table_hack}
-
 #### Edward Schneeweiss
 
 | ![Edward Schneeweiss](assets/images/people/eddy_schneeweiss.jpg) | MS student at UMass Amherst |
+{: .people_table_hack}
+
+#### George Larionov
+
+|![George Larianov](assets/images/people/george_larionov.jpg) | MS student at Carnegie Mellon University |
+{: .people_table_hack}
+
+#### [Kyle Vedder](http://vedder.io)
+
+| ![Kyle Vedder](assets/images/people/kyle_vedder.jpg) | PhD student at University of Pennsylvania |
+{: .people_table_hack}
+
+#### Alyx Burns
+
+|![Alyx Burns](assets/images/people/alyx_burns.jpg) | PhD student at UMass Amherst|
 {: .people_table_hack}
 
 #### Spencer Lane
@@ -115,11 +125,6 @@ order: 1
 |![Samer Nashed](assets/images/people/samer_nashed.jpg) | PhD student at UMass Amherst|
 {: .people_table_hack}
 
-#### George Larionov
-
-|![George Larianov](assets/images/people/george_larionov.jpg) | MS student at Carnegie Mellon University |
-{: .people_table_hack}
-
 #### Sourish Ghosh
 
 |![Sourish Ghosh](assets/images/people/sourish_ghosh.jpg)| PhD student at Carnegie Mellon University |
@@ -128,9 +133,4 @@ order: 1
 #### David Balaban
 
 | ![David Balaban](assets/images/people/david_balaban.jpg) | PhD student at UT Austin |
-{: .people_table_hack}
-
-#### John Bachman
-
-| ![John Bachman](assets/images/people/john_bachman.jpg) | Amazon Robotics |
 {: .people_table_hack}
