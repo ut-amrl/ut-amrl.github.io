@@ -13,15 +13,22 @@ order: 1
 {: .people_table_hack}
 
 ---
-
 ### Research Engineers
+---
 
 #### Maxwell Svetlik
+
 |![Maxwell Svetlik](assets/images/people/maxwell_svetlik.jpg) | I graduated from the University of Texas at Austin in with a Bachelors degree in 2016. Since then I've been in Robotics Engineering roles in industry with the umbrella goal of getting robots to perform in real world environments. I continue this goal at UT-AMRL and other UT Robotics labs by supporting fundamental research and making developed methods accessible to stakeholders. 
 {: .people_table_hack}
 
+#### [Logan Zartman](https://zartman.org)
 
+| ![Logan Zartman](assets/images/people/logan_zartman.jpg) | I have a B.S. in Computer Science from UT Austin. I joined AMRL after participating in CS 378 Autonomous Driving. I'm working on developing a new web-based, multi-robot interface. My interests include web, graphics, and interactivity. |
+{: .people_table_hack}
+
+---
 ### Ph.D. Students
+---
 
 #### Jarrett Holtz
 
@@ -43,11 +50,6 @@ order: 1
 |![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | I graduated from Northeastern University in 2020 with a B.S. in Computer Science, and I worked on deep MARL while there. I am now a first year PhD student at UT Austin where I am studying Computer Science. I joined AMRL during the summer of 2020, and my research interests include reinforcement learning, both single and multi-robot systems, deep learning, and artificial intelligence. |
 {: .people_table_hack}
 
-#### David Balaban
-
-| ![David Balaban](assets/images/people/david_balaban.jpg) | I graduated from UMass in 2016 with two Bachelor of Science degrees, one in Physics and one in Computer Science and a minor in Mathematics. I am now a graduate student at UMass pursuing a Masters degree in Computer Science. My research interests are in Robotics and Optimal Control, Robot Autonomy, Artificial Intelligence and Machine Learning. My long-term career goal is to work to make space exploration more accessible through autonomous robotic technologies. |
-{: .people_table_hack}
-
 #### Kavan Sikand
 
 |![Kavan Sikand](assets/images/people/kavan_sikand.jpg)  | I graduated from UC Berkeley in 2015 with a degree in Electrical Engineering and Computer Sciences. I began working with the Autonomous Mobile Robotics Lab when I started my PhD at UT Austin in fall of 2019. My research interests include Machine Learning, Computer Vision, and Robotics. |
@@ -67,16 +69,7 @@ order: 1
 ---
 
 ### Undergraduate Students
-
-#### John Bachman
-
-| ![John Bachman](assets/images/people/john_bachman.jpg) | I am an undergraduate majoring in Computer Science at UMass. I have been studying in AMRL since the fall of 2019. My area of interest is robotic perception and computer vision. Particularly, I work on the SLAM problem and integrating new forms of sensory data as additional constraints. |
-{: .people_table_hack}
-
-#### [Logan Zartman](https://zartman.org)
-
-| ![Logan Zartman](assets/images/people/logan_zartman.jpg) | I have a B.S. in Computer Science from UT Austin. I joined AMRL after participating in CS 378 Autonomous Driving. I'm working on developing a new web-based, multi-robot interface. My interests include web, graphics, and interactivity. |
-{: .people_table_hack}
+---
 
 #### Tongrui Li
 
@@ -89,8 +82,8 @@ order: 1
 {: .people_table_hack}
 
 ---
-
 ### Previous Members
+---
 
 #### [Kyle Vedder](http://vedder.io)
 
@@ -130,4 +123,14 @@ order: 1
 #### Sourish Ghosh
 
 |![Sourish Ghosh](assets/images/people/sourish_ghosh.jpg)| PhD student at Carnegie Mellon University |
+{: .people_table_hack}
+
+#### David Balaban
+
+| ![David Balaban](assets/images/people/david_balaban.jpg) | PhD student at UT Austin |
+{: .people_table_hack}
+
+#### John Bachman
+
+| ![John Bachman](assets/images/people/john_bachman.jpg) | Amazon Robotics |
 {: .people_table_hack}
