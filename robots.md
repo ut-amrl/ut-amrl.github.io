@@ -11,7 +11,7 @@ order: 2
 
 #### [UT-AUTOmata](automata.html)
 
-|![F1Tenth](assets/images/robots/automata_single.jpg) | The UT AutoMATA are used for both instruction and for planning & perception research in indoor environments. More information on these autonomous f1tenth scale cars can be found here.|
+|![F1Tenth](assets/images/robots/ut_automata_single.jpg) | The UT AutoMATA are used for both instruction and for planning & perception research in indoor environments. More information on these autonomous f1tenth scale cars can be found here.|
 {: .robots_table_hack}
 
 ---
