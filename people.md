@@ -66,6 +66,9 @@ order: 1
 |![Jack Borer](assets/images/people/jack_borer.jpg)  | I graduated from the University of Oklahoma in 2018 with a degree in Petroleum Engineering. After graduation I joined the Nuclear Robotics Group (NRG) at the University of Texas Austin and graduated with my Masters in Mechanical Engineering in December 2020. I am a member of both NRG and AMRL and am working towards a PhD with a focus on computer vision applications for long term autonomy. |
 {: .people_table_hack}
 
+---
+### Masters Students
+---
 
 #### Tongrui Li
 
