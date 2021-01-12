@@ -26,6 +26,12 @@ order: 1
 | ![Logan Zartman](assets/images/people/logan_zartman.jpg) | I have a B.S. in Computer Science from UT Austin. I joined AMRL after participating in CS 378 Autonomous Driving. I'm working on developing a new web-based, multi-robot interface. My interests include web, graphics, and interactivity. |
 {: .people_table_hack}
 
+
+#### Corrie Van Sice
+
+|![Corrie Van Sice](assets/images/people/CVanSice_Avatar_Med.png) | I recently joined the CS staff from Dartmouth College Thayer School of Engineering where I was Senior Research Engineer and manager at the Green 3Dprinting Lab.  Over the last decade, I've developed research and facilities with academic, creative and private company labs, including MakerBot Industries' R&D.  I hold a Masters from NYU Interactive Telecommunications Program, 2011, and BFAs in Interdisciplinary Studio Arts.  I can help with electronics, software, and other common issues in mechatronics, and have special expertise in additive manufacturing and digital fabrication.
+{: .people_table_hack}
+
 ---
 ### Ph.D. Students
 ---
