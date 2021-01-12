@@ -26,6 +26,13 @@ All of the public code associated with our research can be found at [https://git
 
 ### Projects
 
+#### Small to Medium Autonomous Delivery System (SMADS)
+
+| [![SMADS](assets/images/research/smads_thumbnail.jpg)](https://smads.netlify.app/nav.mp4) | SMADS is a case study on the development of an end-to-end software stack to facilitate autonomous delivery by a fleet of heterogeneous robots in an urban environment. This system includes the ability for users to query an autonomous delivery via an iOS application and track progress while the robot is en route to the delivery location. This system has successfully been deployed over 5 business days as a lemonade delivery system on the UT Campus and highlights challenges in the current state of the art approaches to navigation and localization in urban environments with complex terrain, vehicles and crowds of pedestrians. This project was inspired by the idea of using robotics and A.I. to help solve societal problems and was funded under UT [Good Systems](https://bridgingbarriers.utexas.edu/) which aims to employ A.I. for societal benefit. You can learn more at the SMADS project [website](https://smads.netlify.app/) and see its source code on [Github](https://github.com/UTSMADS). |
+{: .research_table_hack}
+
+--- 
+
 #### Introspective Vision for Obstacle Avoidance (IVOA)
 
 | ![IVOA](assets/images/research/iVOA.JPG) | Vision, as an inexpensive yet information rich sensor, is commonly used for perception on autonomous mobile robots. However, vision systems are prone to errors from various sources such as image saturation, blur, and texture-less scenes. In this project, we develop an approach for self-supervised learning of a model that can predict failures of stereo vision-based obstacle avoidance systems. The learned model predicts the probability of different types of failure (false positive and false negative) and pinpoints the location of the error on the input image. ([More Information](papers/iVOA.pdf)). |
@@ -106,15 +113,4 @@ All of the public code associated with our research can be found at [https://git
 #### Multi-Human Single Robot Simultaneous Interaction
 
 | ![Cone](assets/images/research/cone1.png) ![Cone](assets/images/research/cone2.jpg)  |In order for robots to engage fully with humans, they must be able to communicate with multiple humans simultaneously. This project aims to develop an omni-directional interface for multiple humans to ask a robot questions and a method for finding the most useful way for the robot to answer all of those questions simultaneously. |
-{: .research_table_hack}
-
----
-
-#### Small to Medium Autonomous Delivery System (SMADS)
-
-| [![SMADS](assets/images/research/smads_thumbnail.jpg)](https://smads.netlify.app/nav.mp4) 
-SMADS is a case study on the development of an end-to-end software stack to facilitate autonomous delivery by a fleet of heterogeneous robots in an urban environment. 
-This system includes the ability for users to query an autonomous delivery via an iOS application and track progress while the robot is en route to the delivery location.
-This system has successfully been deployed over 5 business days as a lemonade delivery system on the UT Campus and highlights challenges in the current state of the art approaches to navigation and localization in urban environments with complex terrain, vehicles and crowds of pedestrians.
-This project was inspired by the idea of using robotics and A.I. to help solve societal problems and was funded under UT [Good Systems](https://bridgingbarriers.utexas.edu/) which aims to employ A.I. for societal benefit. You can learn more at the SMADS project [website](https://smads.netlify.app/) and see its source code on [Github](https://github.com/UTSMADS). |
 {: .research_table_hack}
