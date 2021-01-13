@@ -26,10 +26,15 @@ All of the public code associated with our research can be found at [https://git
 
 ### Projects
 
+#### Introspective Autonomy
+
+![Introspective Autonomy](https://amrl.cs.utexas.edu/IntrospectiveAutonomy/assets/images/overview.png)
+When robots are deployed in novel environments, developers cannot fully foresee what errors the robots may make, what may be the root causes of such errors, how human confidence in the robots’ abilities may change as a result of such errors, and how well the robots may learn to autonomously overcome errors and reduce the reliance on human assistance. This project develops a comprehensive solution to these challenges by introducing competence-aware autonomy, enabling robots to learn what aspects of the environment, the situation, and the task lead to varying levels of success. Consequently, the project transforms the ability of researchers and practitioners to deploy robots in unstructured environments where limited knowledge is available prior to deployment. This enables workers with limited robotics expertise to deploy robots more safely in unstructured environments and teach them over time to be progressively independent. More information is available on the [Introspective Autonomy project website](https://amrl.cs.utexas.edu/IntrospectiveAutonomy).
+
 #### Small to Medium Autonomous Delivery System (SMADS)
 
-| [![SMADS](assets/images/research/smads_thumbnail.jpg)](https://smads.netlify.app/nav.mp4) | SMADS is a case study on the development of an end-to-end software stack to facilitate autonomous delivery by a fleet of heterogeneous robots in an urban environment. This system includes the ability for users to query an autonomous delivery via an iOS application and track progress while the robot is en route to the delivery location. This system has successfully been deployed over 5 business days as a lemonade delivery system on the UT Campus and highlights challenges in the current state of the art approaches to navigation and localization in urban environments with complex terrain, vehicles and crowds of pedestrians. This project was inspired by the idea of using robotics and A.I. to help solve societal problems and was funded under UT [Good Systems](https://bridgingbarriers.utexas.edu/) which aims to employ A.I. for societal benefit. You can learn more at the SMADS project [website](https://smads.netlify.app/) and see its source code on [Github](https://github.com/UTSMADS). |
-{: .research_table_hack}
+[![SMADS](assets/images/research/smads_thumbnail.jpg)](https://smads.netlify.app/nav.mp4) 
+SMADS is a case study on the development of an end-to-end software stack to facilitate autonomous delivery by a fleet of heterogeneous robots in an urban environment. This system includes the ability for users to query an autonomous delivery via an iOS application and track progress while the robot is en route to the delivery location. This system has successfully been deployed over 5 business days as a lemonade delivery system on the UT Campus and highlights challenges in the current state of the art approaches to navigation and localization in urban environments with complex terrain, vehicles and crowds of pedestrians. This project was inspired by the idea of using robotics and A.I. to help solve societal problems and was funded under UT [Good Systems](https://bridgingbarriers.utexas.edu/) which aims to employ A.I. for societal benefit. You can learn more at the SMADS project [website](https://smads.netlify.app/) and see its source code on [Github](https://github.com/UTSMADS). 
 
 --- 
 
@@ -56,7 +61,7 @@ All of the public code associated with our research can be found at [https://git
 
 #### Time-Optimal Control For Omnidirectional Robots
 
-| ![NTOC](assets/images/research/ntoc.png) |  Omnidirectional robots are used in a number of domains, including service mobile robots, warehouse robots, and robot soccer. Despite their popularity, true time-optimal control of omnidirectional robots with acceleration and velocity limits remains an unsolved problem. This research aims to develop algorithms with bounded run-time to solve the time-optimal control for omnidirectional robots, while producing numerically stable solutions that may be used in iterative closed-loop control under sensing and actuation uncertainty. ([More Information](https://www.joydeepb.com/Publications/iros2018_tsocs.pdf)). |
+| ![NTOC](assets/images/research/tsocs.png) |  Omnidirectional robots are used in a number of domains, including service mobile robots, warehouse robots, and robot soccer. Despite their popularity, true time-optimal control of omnidirectional robots with acceleration and velocity limits remains an unsolved problem. This research aims to develop algorithms with bounded run-time to solve the time-optimal control for omnidirectional robots, while producing numerically stable solutions that may be used in iterative closed-loop control under sensing and actuation uncertainty. ([More Information](https://www.joydeepb.com/Publications/iros2018_tsocs.pdf)). |
 {: .research_table_hack}
 
 ---
