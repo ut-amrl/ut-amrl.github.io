@@ -18,7 +18,7 @@ order: 1
 
 #### Maxwell Svetlik
 
-|![Maxwell Svetlik](assets/images/people/maxwell_svetlik.jpg) | I graduated from the University of Texas at Austin in with a Bachelors degree in 2016. Since then I've been in Robotics Engineering roles in industry with the umbrella goal of getting robots to perform in real world environments. I continue this goal at UT-AMRL and other UT Robotics labs by supporting fundamental research and making developed methods accessible to stakeholders. 
+|![Maxwell Svetlik](assets/images/people/maxwell_svetlik.jpg) | I graduated from the University of Texas at Austin in with a Bachelors degree in 2016. Since then I've been in Robotics Engineering roles in industry with the umbrella goal of getting robots to perform in real world environments. I continue this goal at UT-AMRL and other UT Robotics labs by supporting fundamental research and making developed methods accessible to stakeholders.|
 {: .people_table_hack}
 
 #### [Logan Zartman](https://zartman.org)
@@ -29,7 +29,7 @@ order: 1
 
 #### Corrie Van Sice
 
-|![Corrie Van Sice](assets/images/people/CVanSice_Avatar_Med.png) | I recently joined the CS staff from Dartmouth College Thayer School of Engineering where I was Senior Research Engineer and manager at the Green 3Dprinting Lab.  Over the last decade, I've developed research and facilities with academic, creative and private company labs, including MakerBot Industries' R&D.  I hold a Masters from NYU Interactive Telecommunications Program, 2011, and BFAs in Interdisciplinary Studio Arts.  I can help with electronics, software, and other common issues in mechatronics, and have special expertise in additive manufacturing and digital fabrication.
+| ![Corrie Van Sice](assets/images/people/CVanSice_Avatar_Med.png) | I recently joined the CS staff from Dartmouth College Thayer School of Engineering where I was Senior Research Engineer and manager at the Green 3Dprinting Lab.  Over the last decade, I've developed research and facilities with academic, creative and private company labs, including MakerBot Industries' R&D.  I hold a Masters from NYU Interactive Telecommunications Program, 2011, and BFAs in Interdisciplinary Studio Arts.  I can help with electronics, software, and other common issues in mechatronics, and have special expertise in additive manufacturing and digital fabrication. |
 {: .people_table_hack}
 
 ---
