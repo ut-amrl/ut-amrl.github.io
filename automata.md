@@ -33,3 +33,9 @@ used for both robotics education and research.
 
 ---
 
+#### UT-AUTOmata Robot Exhibition
+
+<div align="center">
+<iframe width="1256" height="707" src="https://www.youtube.com/embed/ClYvJHcrxlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+---
