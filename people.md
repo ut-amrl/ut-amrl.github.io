@@ -72,6 +72,10 @@ order: 1
 |![Jack Borer](assets/images/people/jack_borer.jpg)  | I graduated from the University of Oklahoma in 2018 with a degree in Petroleum Engineering. After graduation I joined the Nuclear Robotics Group (NRG) at the University of Texas Austin and graduated with my Masters in Mechanical Engineering in December 2020. I am a member of both NRG and AMRL and am working towards a PhD with a focus on computer vision applications for long term autonomy. |
 {: .people_table_hack}
 
+#### [Jiayi Wei](https://mrvplusone.github.io/)
+|![Jiayi Wei](assets/images/people/jiayi_wei.jpg)  | I graduated with a B.Sc. in physics from the University of Science and Technology of China in 2017 and joined [The UTIPIA group](http://utopia.cs.utexas.edu/) at UT the same year. My past research has been mostly focusing on fusing machine learning with programming language techniques, and I started to work with Joydeep in 2020. I am currently co-advised by him and Isil Dillig, working on probabilistic program synthesis for robot learning. 
+{: .people_table_hack}
+
 ---
 ### Masters Students
 ---
