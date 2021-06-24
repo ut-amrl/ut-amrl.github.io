@@ -74,7 +74,7 @@ order: 1
 
 #### [Jiayi Wei](https://mrvplusone.github.io/)
 
-| ![Jiayi Wei](assets/images/people/jiayi_wei.jpg)  | I graduated with a B.Sc. in physics from the University of Science and Technology of China in 2017 and joined [The UTIPIA group](http://utopia.cs.utexas.edu/) at UT the same year. My past research has been mostly focusing on fusing machine learning with programming language techniques, and I started to work with Joydeep in 2020. I am currently co-advised by him and Isil Dillig, working on probabilistic program synthesis for robot learning. |
+| ![Jiayi Wei](assets/images/people/jiayi_wei.jpg)  | I graduated with a B.Sc. in physics from the University of Science and Technology of China in 2017 and joined [The UTOPIA group](http://utopia.cs.utexas.edu/) at UT the same year. My past research has been mostly focusing on fusing machine learning with programming language techniques, and I started to work with Joydeep in 2020. I am currently co-advised by him and Isil Dillig, working on probabilistic program synthesis for robot learning. |
 {: .people_table_hack}
 
 ---
