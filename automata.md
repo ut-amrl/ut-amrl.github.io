@@ -13,7 +13,17 @@ used for both robotics education and research.
 ![CarPicture](assets/images/robots/automata_group.jpg){: .center-image width="800px" }
 
 ##### Course Website
-[Spring 2020 CS378](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving/)
+[Spring 2021 CS378](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S21/)
+
+[Fall 2020 CS393R](https://amrl.cs.utexas.edu/CS393R-F20/)
+
+[Spring 2020 CS378](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S20/)
+
+### Publications
+List of publications that utilizes UT AUTOmata. 
+<table class="display" id="pubTable"></table>
+
+
 
 ### Media
 
@@ -36,6 +46,36 @@ used for both robotics education and research.
 #### UT-AUTOmata Robot Exhibition
 
 <div align="center">
-<iframe width="1256" height="707" src="https://www.youtube.com/embed/ClYvJHcrxlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="569" height="315" src="https://www.youtube.com/embed/ClYvJHcrxlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ---
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
+</script><script src="./assets/js/bib-list.js"></script>
+<link href="./assets/bib-publication-list.css" rel="stylesheet" type="text/css" />
+
+<pre id="bibtex" style="display:none;">./ut_automata-references.bib</pre>
+
+<script type="text/javascript">
+ var xhr = new XMLHttpRequest();
+xhr.onreadystatechange = process;
+xhr.open("GET", "./ut_automata-references.bib", true);
+xhr.send();
+
+function process() {
+  if (xhr.readyState == 4) {
+    // console.log(xhr.responseText);
+    // bibtexify(xhr.responseText, "pubTable", {'visualization':false});
+  }
+}
+
+var init = function() {
+  bibtexify("./ut_automata-references.bib", "pubTable", {'visualization':false});
+};
+
+if (window.addEventListener) {
+  window.addEventListener('load', init, false);
+} else if (window.attachEvent) {
+  window.attachEvent('onload', init);
+}
+</script>
