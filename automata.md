@@ -12,12 +12,11 @@ used for both robotics education and research.
 
 ![CarPicture](assets/images/robots/automata_group.jpg){: .center-image width="800px" }
 
-##### Course Website
-[Spring 2021 CS378](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S21/)
+##### Course Offerings
 
-[Fall 2020 CS393R](https://amrl.cs.utexas.edu/CS393R-F20/)
-
-[Spring 2020 CS378](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S20/)
+[Spring 2021 CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S21/)  
+[Fall 2020 CS393R Autonomous Robots](https://amrl.cs.utexas.edu/CS393R-F20/)  
+[Spring 2020 CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S20/) 
 
 ### Publications
 List of publications that utilizes UT AUTOmata. 
