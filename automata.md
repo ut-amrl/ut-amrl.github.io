@@ -21,9 +21,22 @@ used for both robotics education and research.
 
 ### Publications
 List of publications that utilizes UT AUTOmata. 
-<table class="display" id="pubTable"></table>
+<table class="display" id="pubTable"></table>  
+<br/>
 
+### Software
+[Simulation and Hardware Driver Code/Instruction](https://github.com/ut-amrl/ut_automata)
 
+[Reference Manual](https://docs.google.com/document/d/1KHScEcrj_tWRqCbMa7x2mVGDWvNHRvKcmOjuP4hD-ZQ/edit)
+
+### Hardware
+[UT AUTOmata List of Components By Vendor](https://docs.google.com/spreadsheets/d/197W5ejMjJ3xfXrE_wAcsbsO1OQzT3U3aU18hYu6106I/edit#gid=0)
+
+[Hardware Setup Guide](https://docs.google.com/document/d/1TKbYQWP1WYjAUvRWu4ax6k6G6X0Uz_t_NtNbm66m3Zg/edit?usp=sharing)
+
+[Laser Cut Mount Drawing](https://drive.google.com/file/d/1RPymBisQeDRHvxa1WU5EiqHT4_zi8XWi/view)
+
+[Powerboard Schematics](https://drive.google.com/file/d/1vMpDWKRZlicEmgoSk4oGKN8NKZrA9UsG/view)
 
 ### Media
 
