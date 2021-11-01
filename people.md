@@ -51,7 +51,7 @@ order: 1
 |![Emily Pruc](assets/images/people/emily_pruc.jpg)  | I graduated from Brandeis University in 2015 with degrees in Physics and Chemistry. I then began working with the Autonomous Mobile Robotics Lab in the summer of 2018. I am currently enrolled in the College of Information and Computer Science MS/PhD program at the University of Massachusetts Amherst. My research interests include Robotics, Machine Learning, and Artificial Intelligence. |
 {: .people_table_hack}
 
-#### [Josh Hoffman](https://www.joshbhoffman.com/)
+#### [Josh Hoffman](https://joshbhoffman.com/)
 
 |![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | I graduated from Northeastern University in 2020 with a B.S. in Computer Science, and I worked on deep MARL while there. I am now a first year PhD student at UT Austin where I am studying Computer Science. I joined AMRL during the summer of 2020, and my research interests include reinforcement learning, both single and multi-robot systems, deep learning, and artificial intelligence. |
 {: .people_table_hack}
