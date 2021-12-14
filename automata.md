@@ -7,19 +7,48 @@ order: 5
 
 ### UT-AUTOmata
 
-AMRL is home to the UT-AUTOmata, a scale 1/10th autonomous vehicle platform
-used for both robotics education and research.
+AMRL is home to the UT-AUTOmata, a fleet of scale 1/10th autonomous vehicles
+used for robotics education and research.
 
 ![CarPicture](assets/images/robots/automata_group.jpg){: .center-image width="800px" }
 
-##### Course Offerings
 
+### Media
+
+#### UT-AUTOmata Overview Video
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0s0URZ9IyTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+#### High-Speed Autonomous Offroad Driving
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QJDINgrtlCc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+#### Multi-Agent Coordination
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fib4kDVA8O0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+#### UT-AUTOmata Robot Exhibition
+
+<div align="center">
+<iframe width="569" height="315" src="https://www.youtube.com/embed/ClYvJHcrxlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+---
+
+#### Course Offerings
+
+[Fall 2021 CS393R Autonomous Robots](https://amrl.cs.utexas.edu/CS393R-F21/)  
 [Spring 2021 CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S21/)  
 [Fall 2020 CS393R Autonomous Robots](https://amrl.cs.utexas.edu/CS393R-F20/)  
 [Spring 2020 CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S20/) 
 
 ### Publications
-List of publications that utilizes UT AUTOmata. 
+List of related publications. 
 <table class="display" id="pubTable"></table>  
 <br/>
 
@@ -37,30 +66,6 @@ List of publications that utilizes UT AUTOmata.
 
 [Powerboard Schematics](https://drive.google.com/file/d/1vMpDWKRZlicEmgoSk4oGKN8NKZrA9UsG/view)
 
-### Media
-
-#### UT-AUTOmata Overview Video
-
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0s0URZ9IyTs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</div>
-
----
-
-#### UT-AUTOmata Web Interface
-
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H_j-TU1_MQU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</div>
-
----
-
-#### UT-AUTOmata Robot Exhibition
-
-<div align="center">
-<iframe width="569" height="315" src="https://www.youtube.com/embed/ClYvJHcrxlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
----
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
 </script><script src="./assets/js/bib-list.js"></script>
