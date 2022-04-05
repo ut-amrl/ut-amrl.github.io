@@ -88,7 +88,8 @@ order: 1
 
 #### [Taijing Chen](https://tiejean.github.io/about.html)
 
-| ![Taijing Chen](assets/images/people/taijing_chen.jpg) | I graduated from UW Madison with a B.S. in Computer Sciences in 2021. I joined AMRL and UT Austin as a Computer Science Master student at 2021 fall. I am currently working on long-term robot perception and state estimation. | {: .people_table_hack}
+| ![Taijing Chen](assets/images/people/taijing_chen.jpg) | I graduated from UW Madison with a B.S. in Computer Sciences in 2021. I joined AMRL and UT Austin as a Computer Science Master student at 2021 fall. I am currently working on long-term robot perception and state estimation. | 
+{: .people_table_hack}
 
 ---
 
