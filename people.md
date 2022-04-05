@@ -86,6 +86,10 @@ order: 1
 | ![Tongrui Li](assets/images/people/tongrui_li.jpg) | I am an master student studying computer science at UT Austin and joined AMRL at Summer of 2020. I am currently working on creating new controllers that handles multiple robots in the same environment. | 
 {: .people_table_hack}
 
+#### [Taijing Chen](https://tiejean.github.io/about.html)
+
+| ![Taijing Chen](assets/images/people/taijing_chen.jpg) | I graduated from UW Madison with a B.S. in Computer Sciences in 2021. I joined AMRL and UT Austin as a Computer Science Master student at 2021 fall. I am currently working on long-term robot perception and state estimation. | {: .people_table_hack}
+
 ---
 
 ### Undergraduate Students
