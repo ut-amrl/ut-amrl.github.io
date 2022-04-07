@@ -96,6 +96,11 @@ order: 1
 ### Undergraduate Students
 ---
 
+### [Rahul Menon](https://rmeno12.github.io/about/)
+
+| ![Rahul Menon](assets/images/people/rahul_menon.jpg) | I am an undergraduate student at UT Austin pursuing a B.S. in Computer Science and joined AMRL in the winter of 2022. I am currently working on long-term robot perception and state estimation. |
+{: .people_table_hack}
+
 #### [Simon Andrews](https://simonandrews.org/)
 
 | ![Simon Andrews](assets/images/people/simon_andrews.jpg) | I am an undergraduate student majoring in computer science and mathematics at UMass Amherst. I'm currently working on applying program synthesis techniques to robotics. |
