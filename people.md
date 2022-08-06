@@ -33,6 +33,17 @@ order: 1
 {: .people_table_hack}
 
 ---
+### Postdocs
+---
+
+#### Rohan Chandra
+
+|![Rohan Chandra](assets/images/people/rohan_chandra.jpg) | I obtained my MS and PhD in 2018 and 2022 from the University of Maryland, College Park where I was advised by Dinesh Manocha. My thesis focused on autonomous driving in dense, heterogenenous, and unstructured traffic environments. I have published my work in top computer vision and robotics conferences (CVPR, ICRA, IROS) and have interned at NVIDIA in the autonomous driving team. I have served on the program committee of leading conferences in robotics, computer vision, artificial intelligence, and machine learning. I am a UMD Future Faculty Fellow, RSS Pioneer, and a recipient of a UMD summer research fellowship. 
+
+The research question I am working on currently is-- how can agents (robots, AVs) autonomously navigate in human environements in a natural way? Answering this question involves exploring several exciting themes along the lines of estimating and modeling human incentives and preferences in social navigation, risk-aware planning, and autonomous driving. Outside of research, I enjoy teaching and mentoring younger students through diversity and inclusion initiatives like AI4ALL and the NYU AI School.|
+{: .people_table_hack}
+
+---
 ### Ph.D. Students
 ---
 
