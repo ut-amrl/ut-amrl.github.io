@@ -41,6 +41,11 @@ order: 1
 |![Rohan Chandra](assets/images/people/rohan_chandra.jpg) | I obtained my MS and PhD in 2018 and 2022 from the University of Maryland, College Park where I was advised by Dinesh Manocha. My thesis focused on autonomous driving in dense, heterogenenous, and unstructured traffic environments. I am a UMD'20 Future Faculty Fellow, RSS'22 Pioneer, and a recipient of a UMD'20 summer research fellowship. The research question I am working on currently is-- how can agents (robots, AVs) autonomously navigate in human environments more socially and naturally? Answering this question involves exploring several exciting themes along the lines of estimating and modeling human incentives and preferences in social navigation, risk-aware planning, and autonomous driving, among others. Outside of research, I enjoy teaching and mentoring younger students through diversity and inclusion initiatives like AI4ALL and the NYU AI School.|
 {: .people_table_hack}
 
+#### [Kia Rahmani](https://kiarahmani.github.io/)
+
+|![Kia Rahmani](https://avatars1.githubusercontent.com/kiarahmani) | I obtained my PhD in 2022 from Purude University, where I was supervised by S. Jagannathan and B. Delaware. My main research interests are symbolic analysis and synthesis of neural-powered programs, specifically designed for learning advanced long-term autonomy in mobile robotic fleets. Outsude academia, I am very passionate about martial arts, and specifically, I spend time learning and practicing the Brazilian Jiu Jitsu style of self-defense.  |
+{: .people_table_hack}
+
 ---
 ### Ph.D. Students
 ---
