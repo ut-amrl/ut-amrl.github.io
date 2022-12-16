@@ -50,6 +50,11 @@ order: 1
 ### Ph.D. Students
 ---
 
+#### [Arthur Zhang](https://www.arthurkzhang.com)
+
+|![Arthur Zhang](assets/images/people/arthur_zhang.jpg) | I graduated from the University of Michigan, Ann Arbor with a B.S.E in Computer Engineering in 2022. There, I worked at the Computational Autonomy and Robotics Laboratory conducting research on invariant state estimation and semantic mapping. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested broadly in advancing the robustness and scalability of perception algorithms in challenging dynamic conditions. |
+{: .people_table_hack}
+
 #### Jarrett Holtz
 
 |![Jarrett Holtz](assets/images/people/jarrett_holtz.jpg) | I graduated from Vassar College with a degree in Computer Science before moving to the MS/PhD program at UMass Amherst and the Autonomous Mobile Robotics Laboratory. I'm working in robotics because I'm passionate about seeing robotics systems become commonplace as applied to a wide range of problems outside of just research environments. My research interests are in Robotics, Computer Vision, Artificial Intelligence and Software Engineering, with a focus on research that makes robots more adaptive to changes in themselves and the environment.|
