@@ -1,6 +1,6 @@
 ---
 title: Workshops
-layout: mainpage
+layout: singlepage
 exclude: true
 order: 5
 ---
