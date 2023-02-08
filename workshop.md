@@ -1,8 +1,8 @@
 ---
-title: People
-layout: default
-exclude: false
-order: 1
+title: Workshops
+layout: mainpage
+exclude: true
+order: 5
 ---
 
 # Academic Workshop
