@@ -42,10 +42,12 @@ used for robotics education and research.
 
 #### Course Offerings
 
-[Fall 2021 CS393R Autonomous Robots](https://amrl.cs.utexas.edu/CS393R-F21/)  
-[Spring 2021 CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S21/)  
-[Fall 2020 CS393R Autonomous Robots](https://amrl.cs.utexas.edu/CS393R-F20/)  
-[Spring 2020 CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S20/) 
+[Spring 2023: CS378/ME379M/ME397/ECE394J/ECE379K Connected Autonomous Electric Vehicles](https://www.joydeepb.com/assets/cs378sp23_caev.pdf)
+[Spring 2022: CS 378H Autonomous Driving - Honors](https://amrl.cs.utexas.edu/CS378H-S22/)  
+[Fall 2021: CS393R Autonomous Robots](https://amrl.cs.utexas.edu/CS393R-F21/)  
+[Spring 2021: CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S21/)  
+[Fall 2020: CS393R Autonomous Robots](https://amrl.cs.utexas.edu/CS393R-F20/)  
+[Spring 2020: CS378 F1/10 Autonomous Driving](https://amrl.cs.utexas.edu/CS378-F1Tenth-Autonomous-Driving-S20/) 
 
 ### Publications
 List of related publications. 
