@@ -57,7 +57,7 @@ List of related publications.
 ### Software
 [Simulation and Hardware Driver Code/Instruction](https://github.com/ut-amrl/ut_automata)
 
-[Reference Manual](https://docs.google.com/document/d/1KHScEcrj_tWRqCbMa7x2mVGDWvNHRvKcmOjuP4hD-ZQ/edit)
+[Reference Manual](https://docs.google.com/document/d/1bCMpkDbM7aS7DyQgcPHe31QnpRPS7O6782Pj3Ezpnqo)
 
 ### Hardware
 [UT AUTOmata List of Components By Vendor](https://docs.google.com/spreadsheets/d/197W5ejMjJ3xfXrE_wAcsbsO1OQzT3U3aU18hYu6106I/edit#gid=0)
