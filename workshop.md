@@ -91,9 +91,9 @@ Important Dates
 ---------------
 ***
 
-*   **Submission deadline:** To be announced
-*   **Notification of acceptance:** To be announced
-*   **Camera Ready Submission:** To be announced
+*   **Submission deadline:** Tentatively Mid-May 2023
+*   **Notification of acceptance:** Tentatively Mid-June 2023
+*   **Camera Ready Submission:** At least 2 weeks before workshop date. So around early July.
 *   **Workshop day:** July 10 or 14, 2023.
 
 
