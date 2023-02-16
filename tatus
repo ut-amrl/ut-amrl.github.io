@@ -1,0 +1,206 @@
+[1mdiff --git a/workshop.md b/workshop.md[m
+[1mdeleted file mode 100644[m
+[1mindex ebe03eb..0000000[m
+[1m--- a/workshop.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,200 +0,0 @@[m
+[31m----[m
+[31m-title: Workshops[m
+[31m-layout: workshop[m
+[31m-exclude: true[m
+[31m-order: 5[m
+[31m----[m
+[31m-[m
+[31m-<center> July 10-14, 2023 at RSS'23 in Daegu, Republic of Korea!</center>[m
+[31m-[m
+[31m-*   [Overview](#overview)[m
+[31m-*   [Speakers](#invited-speakers)[m
+[31m-*   [Contribute](#call-for-papers)[m
+[31m-*   [Program](#program-subject-to-change)[m
+[31m-*   [Organizers](#organizers)[m
+[31m-[m
+[31m-[m
+[31m-Overview[m
+[31m---------  [m
+[31m-***[m
+[31m-[m
+[31m-Multi-robot autonomous navigation is challenging in unstructured environments due to multiple reasons - agents may be non-cooperative, the environment may consist of unpredictable humans, environments may be constrained or consist of unknown objects or terrains. Research is spread across various domains such as perception, prediction, modeling, simulation, and planning in order to make multi-robot planning in such environments safer, efficient, and socially-compliant in the presence of humans. One of the main goals of this workshop is to bring together research communities working at the intersection of multi-agent systems, social robot navigation, and human behavior modeling. Through invited talks, panel discussions, and paper presentations, attendees will become familiar with the latest research and network for new collaborations. Our objective for this workshop is to amplify the impact of multi-robot navigation research in both academia and industry. The organizers and speakers are from top academic institutes and industry organizations and have a lot of real world experience as well as a strong publishing record in dealing with these aspects. Finally, we are proud to support great diversity in our team including age, gender, ethnicity, and location.[m
+[31m-[m
+[31m-<!-- [m
+[31m-[Tweets by BADUE22](https://twitter.com/BADUE22?ref_src=twsrc%5Etfw)[m
+[31m-[m
+[31m-[](https://twitter.com/BADUE22?ref_src=twsrc%5Etfw)[m
+[31m-[m
+[31m-Follow us on Twitter to stay updated ! -->[m
+[31m-[m
+[31m-Invited Speakers[m
+[31m-----------------[m
+[31m-***[m
+[31m-[m
+[31m-| Mac Schwager | Dorsa Sadigh | Javier Alonso-Mora | Amanda Prorok |[m
+[31m-| -------------------- | ------------ | ------------ | ------------------ |[m
+[31m-| Stanford     | Stanford     | TU Delft           | Cambridge     | [m
+[31m-| <img src="https://web.stanford.edu/~schwager/Pictures/MacPicture.jpg" width="300" height="300"> | <img src="https://dorsa.fyi/dorsasadigh.jpeg" width="320" height="320"> | <img src="https://d2k0ddhflgrk1i.cloudfront.net/_processed_/5/e/csm_5277%20Javier%20Alonso%20Mora_CoR_af9cfec778.jpg" width="400" height="400">  | <img src="https://proroklab.org/wp/wp-content/uploads/2022/04/Amanda-Prorok-.jpg" width="370" height="370">| [m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-| Xuesu Xiao | Chris Amato | Anca Dragan | Dinesh Manocha |[m
+[31m-| ---------- | ----------- | ----------- | -------------- |[m
+[31m-| GMU        | NE          | Berkeley    | UMD            |[m
+[31m-| <img src="https://www.cs.utexas.edu/~xiao/xuesu_website_files/xuesu_xiao.jpg" width="550" height="550">| <img src="https://s32615.pcdn.co/wp-content/uploads/2020/08/Amato_Chris_hero-mobile.jpg" width="600" height="600"> | <img src="https://media.wired.com/photos/5dc6527dd08f8f00081215f5/125:94/w_1999,h_1503,c_limit/W25-Anca-Dragan-DinaLitovsky-2043.jpg" width="500" height="500"> | <img src="https://faculty.eng.umd.edu/sites/faculty.eng.umd.edu/files/profile_images/Manocha.png" width="300" height="300"> |[m
+[31m-[m
+[31m-[m
+[31m-Call for Papers[m
+[31m----------------[m
+[31m-***[m
+[31m-[m
+[31m-We invite participants to submit either short (4+n) or long papers (8+n). We encourage the submission of early ideas, late-breaking results, position papers, or open research questions that are likely to generate interesting discussions. **Work published elsewhere is allowed.** Accepted papers will be presented in a poster session and selected papers as spotlight talks. All submitted contributions will go through a single blind review process.[m
+[31m-[m
+[31m-  [m
+[31m-[m
+[31m-Topics include, and are not limited to:[m
+[31m----------------[m
+[31m-***[m
+[31m-[m
+[31m-The specific goals of the workshop will be to discuss ideas around following topics:[m
+[31m-[m
+[31m-* Perception in unstructured environments[m
+[31m-* Mapping and localization[m
+[31m-* Recognizing novel objects[m
+[31m-* Multi-agent trajectory forecasting[m
+[31m-* Multi-agent behavior prediction[m
+[31m-* Human behavior modeling [m
+[31m-* Modeling human factors and interactions[m
+[31m-* Coordination and competition among multiple autonomous agents[m
+[31m-* Ad-hoc teamwork[m
+[31m-* Non-Cooperative navigation[m
+[31m-* Learning for multi-agent navigation[m
+[31m-* Theory for multi-agent systems[m
+[31m-* Autonomous racing[m
+[31m-* Game-theoretic planning[m
+[31m-* Multi-agent decision making [m
+[31m-* Reinforcement learning in autonomous driving[m
+[31m-* ADAS and autonomous driving[m
+[31m-* Off-road navigation[m
+[31m-[m
+[31m-[m
+[31m-  [m
+[31m-[m
+[31m-Submission[m
+[31m----------------[m
+[31m-***[m
+[31m-[m
+[31m-To be announced[m
+[31m-[m
+[31m-[m
+[31m-Important Dates[m
+[31m----------------[m
+[31m-***[m
+[31m-[m
+[31m-*   **Submission deadline:** Tentatively Mid-May 2023[m
+[31m-*   **Notification of acceptance:** Tentatively Mid-June 2023[m
+[31m-*   **Camera Ready Submission:** At least 2 weeks before workshop date. So around early July.[m
+[31m-*   **Workshop day:** July 10 or 14, 2023.[m
+[31m-[m
+[31m-[m
+[31m-Program (subject to change)[m
+[31m----------------[m
+[31m-***[m
+[31m-[m
+[31m- | Time            | Event                             | Talk Title |[m
+[31m-| --------------- | --------------------------------- ||[m
+[31m-| 9:00 - 9:15     | Introductory Remarks              ||[m
+[31m-| 9:15 - 9:50     | Mac Schwager                      ||[m
+[31m-| 9:50 - 10:25    | Dorsa Sadigh                      ||[m
+[31m-| 10:25 - 11:00   | Break                             ||[m
+[31m-| 11:00 - 11:35   | Javier Alonso-Mora                ||[m
+[31m-| 11:35 - 12:15   | Spotlight Talks                   ||[m
+[31m-| 12:15 - 13:45   | Lunch                             ||[m
+[31m-| 13:45 - 14:25   | Amanda Prorok                     ||[m
+[31m-| 14:25 - 15:00   | Xuesu Xiao                        ||[m
+[31m-| 15:00 - 15:35   | hris Amato                        ||[m
+[31m-| 15:35 - 16:15   |  Anca Dragan                      ||[m
+[31m-| 16:15 - 16:50   | Talk 8 - Dinesh Manocha           ||[m
+[31m-| 16:50 - 17:00   | Concluding Remarks                ||[m
+[31m-[m
+[31m-[m
+[31m-  [m
+[31m-[m
+[31m-<!-- #### Accepted Spotlight Papers (in order of presentation)[m
+[31m-[m
+[31m-1.  [Exploring Contrastive Learning with Attention for Self-Driving Generalization](https://obj.umiacs.umd.edu/badue-accepted/7.pdf)  [m
+[31m-    Laura Y Zheng (University of Maryland, College Park); Yu Shen (University of Maryland - College Park); Ming C Lin (UMD-CP & UNC-CH )[m
+[31m-2.  [Inverse Reinforcement Learning with Hybrid-weight Trust-region Optimization and Curriculum Learning for Autonomous Maneuvering](https://obj.umiacs.umd.edu/badue-accepted/3.pdf)  [m
+[31m-    Yu Shen (University of Maryland - College Park); Weizi Li (University of North Carolina at Chapel Hill); Ming C Lin (UMD-CP & UNC-CH )[m
+[31m-3.  [Imitative Planning using Conditional Normalizing Flow](https://obj.umiacs.umd.edu/badue-accepted/2.pdf)  [m
+[31m-    Shubhankar Agarwal (University of Texas at Austin); Harshit Sikchi (University of Texas at Austin); Cole Gulino (Uber Advanced Technologies Group); Eric Wilkinson (Uber Advanced Technologies Group ); Shivam Gautam (Aurora Innovations Inc.)[m
+[31m-4.  [Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments](https://obj.umiacs.umd.edu/badue-accepted/12.pdf)  [m
+[31m-    Shubham Kedia (University of Illinois, Urbana-Champaign); Sambhu Harimanas Karumanchi (University of Illinois, Urbana-Champaign)[m
+[31m-5.  [Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach](https://obj.umiacs.umd.edu/badue-accepted/8.pdf)  [m
+[31m-    Edoardo Pagot (University of Trento); Mattia Piccinini (University of Trento); Alice Plebe (University of Trento); Enrico Bertolazzi (University of Trento); Francesco Biral ( University of Trento)[m
+[31m-6.  [Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry](https://obj.umiacs.umd.edu/badue-accepted/5.pdf)  [m
+[31m-    Vincenzo Polizzi (Robotics and Perception Group, University of Zurich); Robert Hewitt (Jet Propulsion Laboratory, California Institute of Technology); Javier Hidalgo-Carrió (University of Zurich); Jeff Delaune (Jet Propulsion Laboratory, California Institute of Technology); Davide Scaramuzza (University of Zurich & ETH Zurich, Switzerland)[m
+[31m-7.  [Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://obj.umiacs.umd.edu/badue-accepted/4.pdf)  [m
+[31m-    Suman Ghosh (TU Berlin); Guillermo Gallego (TU Berlin) -->[m
+[31m-[m
+[31m-  [m
+[31m-Organizers[m
+[31m----------------[m
+[31m-***[m
+[31m-[m
+[31m-| Rohan Chandra | Negar Mehr | Joydeep Biswas | Peter Stone |[m
+[31m-| ------------ | ------------ | ------------ | ------------ |[m
+[31m-| UT Austin     | UIUC     | UT Austin          | UT Austin     | [m
+[31m-| <img src="http://rohanchandra30.github.io/assets/images/profile_NYC.jpg" width="500" height="500"> | <img src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=12262&s=300" width="400" height="400"> | <img src="https://www.joydeepb.com/assets/joydeepb.jpg" width="500" height="500"> | <img src="https://www.cs.utexas.edu/~pstone/images/Peter_Headshot_2019.png" width="300" height="300"> | [m
+[31m-[m
+[31m-<!-- # Multi-Agent Planning and Navigation in Challenging Environments[m
+[31m-[m
+[31m-## Overview[m
+[31m-[m
+[31m-Multi-robot autonomous navigation is challenging in unstructured environments due to multiple reasons - agents may be non-cooperative, the environment may consist of unpredictable humans, environments may be constrained or consist of unknown objects or terrains. Research is spread across various domains such as perception, prediction, modeling, simulation, and planning in order to make multi-robot planning in such environments safer, efficient, and socially-compliant in the presence of humans. One of the main goals of this workshop is to bring together research communities working at the intersection of multi-agent systems, social robot navigation, and human behavior modeling. Through invited talks, panel discussions, and paper presentations, attendees will become familiar with the latest research and network for new collaborations. Our objective for this workshop is to amplify the impact of multi-robot navigation research in both academia and industry. The organizers and speakers are from top academic institutes and industry organizations and have a lot of real world experience as well as a strong publishing record in dealing with these aspects. Finally, we are proud to support great diversity in our team including age, gender, ethnicity, and location.[m
+[31m-[m
+[31m-## Date and Location[m
+[31m-[m
+[31m-The workshop will be held on 10th or 14th July, 2023 in Daegu, Republic of Korea.[m
+[31m-[m
+[31m-## Agenda[m
+[31m-[m
+[31m-- [9 - 9:15] Introductory Remarks[m
+[31m-- [9:15 - 9:50] Talk 1 - Mac Schwager[m
+[31m-- [9:50 - 10:25] Talk 2 - Dorsa Sadigh[m
+[31m-- [10:25 - 11:00] Break[m
+[31m-- [11:00 - 11:35] Talk 3 - Javier Alonso-Mora [m
+[31m-- [11:35 - 12:15] Spotlight Talks[m
+[31m-- [12:15 - 13:45] Lunch[m
+[31m-- [13:45 - 14:25] Talk 4 - Amanda Prorok[m
+[31m-- [14:25 - 15:00] Talk 5 - Xuesu Xiao[m
+[31m-- [15:00 - 15:35] Talk 6 - Chris Amato[m
+[31m-- [15:35 - 16:15] Talk 7 - Anca Dragan[m
+[31m-- [16:15 - 16:50] Talk 8 - Dinesh Manocha[m
+[31m-- [16:50 - 17:00] Concluding Remarks[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-## Speakers[m
+[31m-[m
+[31m-- Mac Schwager[m
+[31m-- Dorsa Sadigh[m
+[31m-- Javier Alonso-Mora[m
+[31m-- Amanda Prorok[m
+[31m-- Xuesu Xiao[m
+[31m-- Chris Amato[m
+[31m-- Anca Dragan[m
+[31m-- Dinesh Manocha[m
+[31m-[m
+[31m-[m
+[31m-## Call for Papers[m
+[31m-[m
+[31m-To be announced.[m
+[31m-[m
+[31m-## Registration[m
+[31m-[m
+[31m-The workshop fee is [insert fee]. To register, please [insert registration details].[m
+[31m-[m
+[31m-## Contact[m
+[31m-[m
+[31m-For more information or to ask questions, please contact us at [rchandra@utexas.edu]. -->[m
