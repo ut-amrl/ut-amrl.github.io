@@ -34,7 +34,7 @@ Invited Speakers
 | Mac Schwager | Dorsa Sadigh | Javier Alonso-Mora | Amanda Prorok |
 | -------------------- | ------------ | ------------ | ------------------ |
 | Stanford     | Stanford     | TU Delft           | Cambridge     | 
-| <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/mac.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/dorsa.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/javier.png">  | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/amanda.png" width=450 height=450>| 
+| <img src="hhttps://obj.umiacs.umd.edu/badue-accepted/rss/mac.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/dorsa.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/javier.png">  | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/amanda.png">| 
 
 
 
@@ -145,7 +145,7 @@ Organizers
 | Rohan Chandra | Negar Mehr | Joydeep Biswas | Peter Stone |
 | ------------ | ------------ | ------------ | ------------ |
 | UT Austin     | UIUC     | UT Austin          | UT Austin     | 
-| <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/rohan.png" width=580 height=580> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/negar.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/joydeep.png" width=580 height=580> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/peter.png"> | 
+| <img src="http://rohanchandra30.github.io/assets/images/profile_NYC.jpg" width="500" height="500"> | <img src="https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=12262&s=300" width="400" height="400"> | <img src="https://www.joydeepb.com/assets/joydeepb.jpg" width="500" height="500"> | <img src="https://www.cs.utexas.edu/~pstone/images/Peter_Headshot_2019.png" width="300" height="300"> | 
 
 <!-- # Multi-Agent Planning and Navigation in Challenging Environments
 
