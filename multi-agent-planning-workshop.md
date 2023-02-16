@@ -31,17 +31,17 @@ Invited Speakers
 ----------------
 ***
 
-| Mac Schwager | Dorsa Sadigh | Javier Alonso-Mora | Amanda Prorok |
-| -------------------- | ------------ | ------------ | ------------------ |
-| Stanford     | Stanford     | TU Delft           | Cambridge     | 
+| [Mac Schwager](https://web.stanford.edu/~schwager/) | [Dorsa Sadigh](https://dorsa.fyi/) | [Javier Alonso-Mora](http://www.alonsomora.com/) | [Amanda Prorok](https://proroklab.org/wp/) |
+| :--------------------: | :--------------------: | :--------------------: | :--------------------: |
+| Stanford University    | Stanford University    | TU Delft           | Cambridge University    | 
 | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/mac.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/dorsa.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/javier.png">  | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/amanda.png" width=450 height=450>| 
 
 
 
-| Xuesu Xiao | Chris Amato | Anca Dragan | Dinesh Manocha |
-| ---------- | ----------- | ----------- | -------------- |
-| GMU        | NE          | Berkeley    | UMD            |
-| <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/xuesu.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/chris.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/anca.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/dinesh.png"> |
+| [Xuesu Xiao](https://cs.gmu.edu/~xiao/) | [Chris Amato](https://www.ccs.neu.edu/home/camato/) | [Anca Dragan](https://people.eecs.berkeley.edu/~anca/) | [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) |
+| :--------------------: | :--------------------: | :--------------------: | :--------------------: |
+| George Mason University        | Northeastern University      | UC Berkeley    | University of Maryland       |
+| <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/xuesu.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/chris.png" width=450 height=450> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/anca.png" width=550 height=550> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/dinesh.png"> |
 
 
 Call for Papers
@@ -142,8 +142,8 @@ Organizers
 ---------------
 ***
 
-| Rohan Chandra | Negar Mehr | Joydeep Biswas | Peter Stone |
-| ------------ | ------------ | ------------ | ------------ |
+| [Rohan Chandra](http://rohanchandra30.github.io/) | [Negar Mehr](http://negar.web.illinois.edu/) | [Joydeep Biswas](https://www.joydeepb.com/) | [Peter Stone](https://www.cs.utexas.edu/~pstone/) |
+| :--------------------: | :--------------------: | :--------------------: | :--------------------: |
 | UT Austin     | UIUC     | UT Austin          | UT Austin     | 
 | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/rohan.png" width=580 height=580> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/negar.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/joydeep.png" width=580 height=580> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/peter.png"> | 
 
