@@ -1,18 +1,12 @@
 ---
-title: Workshops
+title: RSS 2023 Workshop
+workshop-title: RSS 2023 Workshop on Multi-Agent Planning and Navigation in Challenging Environments
 layout: workshop
 exclude: true
 order: 5
 ---
 
 <center> July 10-14, 2023 at RSS'23 in Daegu, Republic of Korea!</center>
-
-*   [Overview](#overview)
-*   [Speakers](#invited-speakers)
-*   [Contribute](#call-for-papers)
-*   [Program](#program-subject-to-change)
-*   [Organizers](#organizers)
-
 
 Overview
 --------  
