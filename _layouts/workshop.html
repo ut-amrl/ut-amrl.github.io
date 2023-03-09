@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <!-- Basic Page Needs
   ------------------------------------ -->
   <meta charset="utf-8">
-  <title>RSS 2023 Workshop</title>
+  <title>{{ page.title }}</title>
 
   <!-- Mobile Specific Metas
   ------------------------------------ -->
@@ -29,6 +30,7 @@
   <meta name="keywords" content="courses, computer science, robotics">
 
 </head>
+
 <body id="index">
 
   <!-- Primary Page Layout
@@ -38,24 +40,15 @@
       <nav class="twelve columns">
         <hr />
         <br />
-        <h1 style="text-align:center">RSS 2023 Workshop on Multi-Agent Planning and Navigation in Challenging Environments</h1>
+        <h1 style="text-align:center">{{ page.workshop-title }}</h1>
         <hr />
-          <!-- <ul>
-            {% assign mypages = site.pages | sort: "order" %}
-            {% for navpage in mypages %}
-              {% unless navpage.exclude %}
-                {% if navpage.title == page.title %}
-                  <li class="current active">
-                {% else %}
-                  <li>
-                {% endif %}
-                <a href="{{ navpage.url | absolute_url}}">
-                  {{ navpage.title }}
-                </a>
-                </li>
-              {% endunless %}
-            {% endfor %}
-          </ul> -->
+        <ul>
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#invited-speakers">Speakers</a></li>
+          <li><a href="#call-for-papers">Contribute</a></li>
+          <li><a href="#program-subject-to-change">Program</a></li>
+          <li><a href="#organizers">Organizers</a></li>
+        </ul>
         <hr />
       </nav>
     </div>
@@ -69,5 +62,5 @@
   <!-- End Document
   ------------------------------------ -->
 </body>
-</html>
 
+</html>
