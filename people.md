@@ -5,6 +5,7 @@ exclude: false
 order: 1
 ---
 
+
 ### Faculty
 
 #### [Joydeep Biswas](https://www.joydeepb.com/)
@@ -15,17 +16,6 @@ order: 1
 ---
 ### Research Engineers
 ---
-
-#### Maxwell Svetlik
-
-|![Maxwell Svetlik](assets/images/people/maxwell_svetlik.jpg) | I graduated from the University of Texas at Austin in with a Bachelors degree in 2016. Since then I've been in Robotics Engineering roles in industry with the umbrella goal of getting robots to perform in real world environments. I continue this goal at UT-AMRL and other UT Robotics labs by supporting fundamental research and making developed methods accessible to stakeholders.|
-{: .people_table_hack}
-
-#### [Logan Zartman](https://zartman.org)
-
-| ![Logan Zartman](assets/images/people/logan_zartman.jpg) | I have a B.S. in Computer Science from UT Austin. I joined AMRL after participating in CS 378 Autonomous Driving. I'm working on developing a new web-based, multi-robot interface. My interests include web, graphics, and interactivity. |
-{: .people_table_hack}
-
 
 #### Corrie Van Sice
 
@@ -38,57 +28,21 @@ order: 1
 
 #### [Rohan Chandra](http://rohanchandra30.github.io/)
 
-|![Rohan Chandra](assets/images/people/rohan_chandra.jpg) | I obtained my MS and PhD in 2018 and 2022 from the University of Maryland, College Park where I was advised by Dinesh Manocha. My thesis focused on autonomous driving in dense, heterogenenous, and unstructured traffic environments. I am a UMD'20 Future Faculty Fellow, RSS'22 Pioneer, and a recipient of a UMD'20 summer research fellowship. The research question I am working on currently is-- how can agents (robots, AVs) autonomously navigate in human environments more socially and naturally? Answering this question involves exploring several exciting themes along the lines of estimating and modeling human incentives and preferences in social navigation, risk-aware planning, and autonomous driving, among others. Outside of research, I enjoy teaching and mentoring younger students through diversity and inclusion initiatives like AI4ALL and the NYU AI School.|
+|![Rohan Chandra](assets/images/people/rohan_chandra.jpg) | Rohan obtained his B.Tech from the Delhi Technological University, New Delhi in 2016 and completed his MS and PhD in 2018 and 2022 from the University of Maryland advised by Dr. Dinesh Manocha. His doctoral thesis focused on autonomous driving in dense, heterogeneous, and unstructured traffic environments, and published his work in top computer vision and robotics conferences (CVPR, ICRA, IROS, etc.). Rohan is a Microsoft Future Leader in Robotics and AI, KAUST Rising Star in AI 2023, UMD’21 Future Faculty Fellow, RSS’22 Pioneer, and he is a recipient of the UMD’20 summer research fellowship. He is currently serving as an Associate Editor for RA-L. Rohan research interests span multi-agent planning and navigation, autonomous driving, and social robot navigation.|
 {: .people_table_hack}
 
 #### [Kia Rahmani](https://kiarahmani.github.io/)
 
-|![Kia Rahmani](https://avatars1.githubusercontent.com/kiarahmani) | I obtained my PhD in 2022 from Purude University, where I was supervised by S. Jagannathan and B. Delaware. My main research interests are symbolic analysis and synthesis of neural-powered programs, specifically designed for learning advanced long-term autonomy in mobile robotic fleets. Outsude academia, I am very passionate about martial arts, and specifically, I spend time learning and practicing the Brazilian Jiu Jitsu style of self-defense.  |
+|![Kia Rahmani](https://avatars1.githubusercontent.com/kiarahmani) | I obtained my PhD in 2022 from Purdue University, where I was supervised by S. Jagannathan and B. Delaware. My main research interests are symbolic analysis and synthesis of neural-powered programs, specifically designed for learning advanced long-term autonomy in mobile robotic fleets. Outsude academia, I am very passionate about martial arts, and specifically, I spend time learning and practicing the Brazilian Jiu Jitsu style of self-defense.  |
 {: .people_table_hack}
 
 ---
 ### Ph.D. Students
 ---
 
-#### [Arthur Zhang](https://www.arthurkzhang.com)
-
-|![Arthur Zhang](assets/images/people/arthur_zhang.jpg) | I graduated from the University of Michigan, Ann Arbor with a B.S.E in Computer Engineering in 2022. There, I worked at the Computational Autonomy and Robotics Laboratory conducting research on invariant state estimation and semantic mapping. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested broadly in advancing the robustness and scalability of perception algorithms in challenging dynamic conditions. |
-{: .people_table_hack}
-
-#### Jarrett Holtz
-
-|![Jarrett Holtz](assets/images/people/jarrett_holtz.jpg) | I graduated from Vassar College with a degree in Computer Science before moving to the MS/PhD program at UMass Amherst and the Autonomous Mobile Robotics Laboratory. I'm working in robotics because I'm passionate about seeing robotics systems become commonplace as applied to a wide range of problems outside of just research environments. My research interests are in Robotics, Computer Vision, Artificial Intelligence and Software Engineering, with a focus on research that makes robots more adaptive to changes in themselves and the environment.|
-{: .people_table_hack}
-
-#### [Sadegh Rabiee](http://www.cs.utexas.edu/~srabiee/)
-
-|![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | I received a B.Sc. in Electrical Engineering at the University of Tehran in 2015 and a M.Sc. in Computer Science from the College of Information and Computer Sciences at UMass Amherst in 2018. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested in safe navigation for mobile robots via accurate motion models and perception algorithms that are competence-aware. |
-{: .people_table_hack}
-
-#### Emily Pruc
-
-|![Emily Pruc](assets/images/people/emily_pruc.jpg)  | I graduated from Brandeis University in 2015 with degrees in Physics and Chemistry. I then began working with the Autonomous Mobile Robotics Lab in the summer of 2018. I am currently enrolled in the College of Information and Computer Science MS/PhD program at the University of Massachusetts Amherst. My research interests include Robotics, Machine Learning, and Artificial Intelligence. |
-{: .people_table_hack}
-
-#### [Josh Hoffman](https://joshbhoffman.com/)
-
-|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | I graduated from Northeastern University in 2020 with a B.S. in Computer Science, and I worked on deep MARL while there. I am now a first year PhD student at UT Austin where I am studying Computer Science. I joined AMRL during the summer of 2020, and my research interests include reinforcement learning, both single and multi-robot systems, deep learning, and artificial intelligence. |
-{: .people_table_hack}
-
-#### Kavan Sikand
-
-|![Kavan Sikand](assets/images/people/kavan_sikand.jpg)  | I graduated from UC Berkeley in 2015 with a degree in Electrical Engineering and Computer Sciences. I began working with the Autonomous Mobile Robotics Lab when I started my PhD at UT Austin in fall of 2019. My research interests include Machine Learning, Computer Vision, and Robotics. |
-{: .people_table_hack}
-
 #### [Amanda Adkins](https://mandi1267.github.io)
 
 |![Amanda Adkins](assets/images/people/amanda_adkins.jpg)  | I graduated from WPI in 2016 with a double major in Computer Science and Robotics Engineering. From 2016 to 2020, I worked at Amazon Robotics as a software development engineer. I joined AMRL and the Computer Science PhD program at UT Austin in fall 2020. My research interests include robotics, computer vision, and machine learning, with a focus on robotic perception for long-term autonomy. |
-{: .people_table_hack}
-
-
-#### Jack Borer
-
-|![Jack Borer](assets/images/people/jack_borer.jpg)  | I graduated from the University of Oklahoma in 2018 with a degree in Petroleum Engineering. After graduation I joined the Nuclear Robotics Group (NRG) at the University of Texas Austin and graduated with my Masters in Mechanical Engineering in December 2020. I am a member of both NRG and AMRL and am working towards a PhD with a focus on computer vision applications for long term autonomy. |
 {: .people_table_hack}
 
 #### [Jiayi Wei](https://mrvplusone.github.io/)
@@ -96,14 +50,26 @@ order: 1
 | ![Jiayi Wei](assets/images/people/jiayi_wei.jpg)  | I graduated with a B.Sc. in physics from the University of Science and Technology of China in 2017 and joined [The UTOPIA group](http://utopia.cs.utexas.edu/) at UT the same year. My past research has been mostly focusing on fusing machine learning with programming language techniques, and I started to work with Joydeep in 2020. I am currently co-advised by him and Isil Dillig, working on probabilistic program synthesis for robot learning. |
 {: .people_table_hack}
 
+
+#### [Arthur Zhang](https://www.arthurkzhang.com)
+
+|![Arthur Zhang](assets/images/people/arthur_zhang.jpg) | I graduated from the University of Michigan, Ann Arbor with a B.S.E in Computer Engineering in 2022. There, I worked at the Computational Autonomy and Robotics Laboratory conducting research on invariant state estimation and semantic mapping. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested broadly in advancing the robustness and scalability of perception algorithms in challenging dynamic conditions. |
+{: .people_table_hack}
+
+
+#### [Sadanand Modak](https://www.linkedin.com/in/sadanand-modak-85a9b91a9)
+
+| ![Sadanand Modak](https://drive.google.com/uc?id=1JDNDDdz5GeLDKO4lDDzuijILkWh0rr-y)  | I graduated from the Indian Institute of Technology Delhi in 2022 with B.Tech in Mechanical Engineering. I worked on projects in diverse areas during my undergrad, which include kinematics and synthesis of robotic manipulators, mutli-robot task allocation systems, computer vision, and development of soft robotic exosuit. I joined the PhD program in Computer Science at UT Austin thereafter in Fall 2022 and have been working as part of AMRL since then. My broad interests lie in long-term autonomy of mobile robots with a focus on advancing current planning/navigation and perception systems to reduce human intervention. |
+{: .people_table_hack}
+
+#### Zichao Hu
+
+| ![Zichao Hu](https://drive.google.com/uc?id=1VC6GlPlYtOF6DkJcB0dCCzu7jBYCi4GV)  | |
+{: .people_table_hack}
+
 ---
 ### Masters Students
 ---
-
-#### Tongrui Li
-
-| ![Tongrui Li](assets/images/people/tongrui_li.jpg) | I am an master student studying computer science at UT Austin and joined AMRL at Summer of 2020. I am currently working on creating new controllers that handles multiple robots in the same environment. | 
-{: .people_table_hack}
 
 #### [Taijing Chen](https://tiejean.github.io/about.html)
 
@@ -120,14 +86,65 @@ order: 1
 | ![Rahul Menon](assets/images/people/rahul_menon.jpg) | I am an undergraduate student at UT Austin pursuing a B.S. in Computer Science and joined AMRL in the winter of 2022. I am currently working on long-term robot perception and state estimation. |
 {: .people_table_hack}
 
-#### [Simon Andrews](https://simonandrews.org/)
+#### Luisa Mao
 
-| ![Simon Andrews](assets/images/people/simon_andrews.jpg) | I am an undergraduate student majoring in computer science and mathematics at UMass Amherst. I'm currently working on applying program synthesis techniques to robotics. |
+| ![Luisa Mao](https://drive.google.com/uc?id=1JkeUyUx4drDpECuB9oHJ4XdUEYesJGwj)  | I am an undergraduate CS major at UT Austin, and I joined AMRL in the summer of 2022. I’m currently working on navigation, path planning, and motion planning tasks. Broadly, I’m interested in autonomy and ML in motion control.|
 {: .people_table_hack}
 
 ---
 ### Previous Members
 ---
+
+#### Maxwell Svetlik
+
+|![Maxwell Svetlik](assets/images/people/maxwell_svetlik.jpg) ||
+{: .people_table_hack}
+
+#### [Logan Zartman](https://zartman.org)
+    
+| ![Logan Zartman](assets/images/people/logan_zartman.jpg) ||
+{: .people_table_hack}
+
+#### Tongrui Li
+
+| ![Tongrui Li](assets/images/people/tongrui_li.jpg) ||
+{: .people_table_hack}
+
+#### Jack Borer
+
+|![Jack Borer](assets/images/people/jack_borer.jpg)  ||
+{: .people_table_hack}
+
+
+#### [Simon Andrews](https://simonandrews.org/)
+
+| ![Simon Andrews](assets/images/people/simon_andrews.jpg) ||
+{: .people_table_hack}
+
+#### Jarrett Holtz
+
+|![Jarrett Holtz](assets/images/people/jarrett_holtz.jpg) ||
+{: .people_table_hack}
+
+#### [Sadegh Rabiee](http://www.cs.utexas.edu/~srabiee/)
+
+|![Sadegh Rabiee](assets/images/people/sadegh_rabiee.jpg) | |
+{: .people_table_hack}
+
+#### Emily Pruc
+
+|![Emily Pruc](assets/images/people/emily_pruc.jpg)  | |
+{: .people_table_hack}
+
+#### [Josh Hoffman](https://joshbhoffman.com/)
+
+|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | |
+{: .people_table_hack}
+
+#### Kavan Sikand
+
+|![Kavan Sikand](assets/images/people/kavan_sikand.jpg)  | |
+{: .people_table_hack}
 
 #### [John Bachman](https://thecynosure.github.io/)
 
