@@ -23,7 +23,7 @@ Invited Speakers
 | Yale University    | UC Berkeley    | Google | 
 | <img src="assets/iros2023-caa-workshop/tesca.jpg" style="max-height:200px;"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/anca.png" style="max-height:200px;"> | <img src="https://www.jie-tan.net/img/MyPhoto.jpg" style="max-height:200px;">  | 
 
-| [Thomas Dietterich](https://web.engr.oregonstate.edu/~tgd/) | [Nick Hawes](https://www.ccs.neu.edu/home/camato/) |
+| [Thomas Dietterich](https://web.engr.oregonstate.edu/~tgd/) | [Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) |
 | Oregon State University        |  University of Oxford    | 
 | <img src="https://engineering.oregonstate.edu/sites/engineering.oregonstate.edu/files/styles/profile_image/public/2022-11/profile-thomas-g-dietterich.jpg?itok=U3N5vcfd" style="max-height:200px;"> | <img src="https://eng.ox.ac.uk/media/1180/nick-hawes-provided.jpg?center=0.35796766743648961,0.47572815533980584&mode=crop&width=250&height=250&rnd=132441407640000000" style="max-height:200px;"> |
 
