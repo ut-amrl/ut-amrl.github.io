@@ -8,7 +8,7 @@ order: 5
 
 <center> <h1><u>SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces</u></h1></center>
 <p align="center">
-  <a href="https://zaynesprague.com/">Zayne Sprague</a>, <a href="http://rohanchandra30.github.io/">Rohan Chandra</a>, <a href="https://www.joydeepb.com/">Joydeep Biswas</a> 
+  <a href="https://zaynesprague.com/">Zayne Sprague</a>, <a href="http://rohanchandra30.github.io/">Rohan Chandra</a>, <a href="https://www.linkedin.com/in/jarrett-holtz-79618a52">Jarrett Holtz</a>, <a href="https://www.joydeepb.com/">Joydeep Biswas</a> 
 </p>
 
 
