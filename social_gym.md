@@ -32,7 +32,28 @@ Project
 3. [**Documentation**](https://amrl.cs.utexas.edu/SocialGym2/index.html)
 
 
+## If you use our work, please cite the following
+---
 
+```
+@article{sprague2023socialgym,
+  title={SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces},
+  author={Sprague, Zayne and Chandra, Rohan and Holtz, Jarrett and Biswas, Joydeep},
+  journal={arXiv preprint arXiv:2303.05584},
+  year={2023}
+}
+```
+
+```
+@inproceedings{holtz2022socialgym,
+  title={Socialgym: A framework for benchmarking social robot navigation},
+  author={Holtz, Jarrett and Biswas, Joydeep},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={11246--11252},
+  year={2022},
+  organization={IEEE}
+}
+```
 
 <!-- <br><br> -->
 
