@@ -1,6 +1,7 @@
 ---
 title: RSS23
 layout: default
+alias: ["/social_gym/"]
 exclude: true
 order: 5
 ---
