@@ -1,6 +1,7 @@
 ---
 title: IROS 2023 Workshop
 workshop-title: IROS 2023 Workshop on Competence-Aware Autonomy
+shorthand: 
 layout: workshop
 exclude: true
 order: 5
