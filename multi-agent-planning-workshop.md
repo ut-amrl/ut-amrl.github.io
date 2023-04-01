@@ -1,12 +1,13 @@
 ---
 title: RSS 2023 Workshop
 workshop-title: RSS 2023 Workshop on Multi-Agent Planning and Navigation in Challenging Environments
+shorthand: (MultiAct 2023)
 layout: workshop
 exclude: true
 order: 5
 ---
 
-<center> July 10-14, 2023 at RSS'23 in Daegu, Republic of Korea!</center>
+<center> July 10, 2023 at RSS'23 in Daegu, Republic of Korea!</center>
 
 Overview
 --------  
@@ -78,17 +79,17 @@ Submission
 ---------------
 ***
 
-To be announced
+Submit here: [**CMT**](https://cmt3.research.microsoft.com/MultiAct2023/Submission/Index)
 
 
 Important Dates
 ---------------
 ***
 
-*   **Submission deadline:** Tentatively Mid-May 2023
-*   **Notification of acceptance:** Tentatively Mid-June 2023
-*   **Camera Ready Submission:** At least 2 weeks before workshop date. So around early July.
-*   **Workshop day:** July 10 or 14, 2023.
+*   **Submission deadline:** May 25, 2023
+*   **Notification of acceptance:** June 14, 2023
+*   **Camera Ready Submission:** Jun 21, 2023.
+*   **Workshop day:** July 10, 2023.
 
 
 Program (subject to change)
