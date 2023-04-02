@@ -107,9 +107,9 @@ Program (subject to change)
 | 12:15 - 13:45   | Lunch                             ||
 | 13:45 - 14:25   | Amanda Prorok                     ||
 | 14:25 - 15:00   | Xuesu Xiao                        ||
-| 15:00 - 15:35   | hris Amato                        ||
-| 15:35 - 16:15   |  Anca Dragan                      ||
-| 16:15 - 16:50   | Talk 8 - Dinesh Manocha           ||
+| 15:00 - 15:35   | Chris Amato                       ||
+| 15:35 - 16:15   | Anca Dragan                       ||
+| 16:15 - 16:50   | Dinesh Manocha                    ||
 | 16:50 - 17:00   | Concluding Remarks                ||
 
 
