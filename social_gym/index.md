@@ -16,6 +16,16 @@ order: 5
   <img src="https://drive.google.com/uc?id=1-mdW21SIJiF4LUlxGxQClDlZhd5iHUDP" />
 </p>
 
+Visualizations
+--------  
+***
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1RlhEdqMbEbQ491q6htZGjRph8-y8amyl" />
+</p>
+
+UTMRS is the simulator interface that interacts with the Human module (PedSim) and the local robot navigation module. More specifically, as shown in the figure above, UTMRS updates the state of the simulator and sends the updated state to both PedSim and the local navigation modules. Given the state, both modules use their respective policies to select the optimal action which is sent back to UTMRS. PedSim additionally transmits internal state/action information to the local navigation module so that the robots are aware of the human states.
+
+
 
 Abstract
 --------  
