@@ -25,6 +25,11 @@ Visualizations
 
 UTMRS is the simulator interface that interacts with the Human module (PedSim) and the local robot navigation module. More specifically, as shown in the figure above, UTMRS updates the state of the simulator and sends the updated state to both PedSim and the local navigation modules. Given the state, both modules use their respective policies to select the optimal action which is sent back to UTMRS. PedSim additionally transmits internal state/action information to the local navigation module so that the robots are aware of the human states.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1tW4eIiSY2WU1mjo3vro0o26K8a0zp8AQ" />
+</p>
+
+The orange clusters represent lidar scans of the obstacles, the red cross is the local waypoint, the blue curves represent the 2D trajectory search space, and the red outer curves represent the minimum and maximum curvatures. In this Figure, we show that the search space gets clipped due to an obstacle in front.
 
 
 Abstract
