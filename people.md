@@ -52,7 +52,7 @@ order: 1
 
 #### [Josh Hoffman](https://joshbhoffman.com/)
 
-|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | I graduated from Northeastern University in 2020 with a B.S. in Computer Science where I researched deep multi-agent reinforcement learning. I am now a third year PhD student at UT Austin studying Computer Science. My research interests include deep reinforcement learning, artificial intelligence, and program synthesis for autonomy. |
+|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | I graduated from Northeastern University in 2020 with a B.S. in Computer Science. I am now a PhD student at UT Austin studying Computer Science. My past research has focussed on deep multi-agent reinforcement learning, and my current research interests include deep reinforcement learning, artificial intelligence, and program synthesis for autonomy. Additionally, I am a lab member of [Trishul @ UT Austin](https://trishul.us) |
 {: .people_table_hack}
 
 #### [Arthur Zhang](https://www.arthurkzhang.com)
