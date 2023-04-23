@@ -50,6 +50,10 @@ order: 1
 | ![Jiayi Wei](assets/images/people/jiayi_wei.jpg)  | I graduated with a B.Sc. in physics from the University of Science and Technology of China in 2017 and joined [The UTOPIA group](http://utopia.cs.utexas.edu/) at UT the same year. My past research has been mostly focusing on fusing machine learning with programming language techniques, and I started to work with Joydeep in 2020. I am currently co-advised by him and Isil Dillig, working on probabilistic program synthesis for robot learning. |
 {: .people_table_hack}
 
+#### [Josh Hoffman](https://joshbhoffman.com/)
+
+|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | I graduated from Northeastern University in 2020 with a B.S. in Computer Science where I researched deep multi-agent reinforcement learning. I am now a third year PhD student at UT Austin studying Computer Science. My research interests include deep reinforcement learning, artificial intelligence, and program synthesis for autonomy. |
+{: .people_table_hack}
 
 #### [Arthur Zhang](https://www.arthurkzhang.com)
 
@@ -134,11 +138,6 @@ order: 1
 #### Emily Pruc
 
 |![Emily Pruc](assets/images/people/emily_pruc.jpg)  | |
-{: .people_table_hack}
-
-#### [Josh Hoffman](https://joshbhoffman.com/)
-
-|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | |
 {: .people_table_hack}
 
 #### Kavan Sikand
