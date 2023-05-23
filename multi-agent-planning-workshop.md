@@ -96,20 +96,20 @@ Program (subject to change)
 ---------------
 ***
 
- | Time            | Event                             | Talk Title |
+| Time            | Event                             | Talk Title (TBA)|
 | --------------- | --------------------------------- ||
 | 9:00 - 9:15     | Introductory Remarks              ||
-| 9:15 - 9:50     | Mac Schwager                      ||
-| 9:50 - 10:25    | Dorsa Sadigh                      ||
+| 9:15 - 9:50     | Chris Amato                       ||
+| 9:50 - 10:25    | Xuesu Xiao                        ||
 | 10:25 - 11:00   | Break                             ||
-| 11:00 - 11:35   | Javier Alonso-Mora                ||
+| 11:00 - 11:35   | Dinesh Manocha                    ||
 | 11:35 - 12:15   | Spotlight Talks                   ||
 | 12:15 - 13:45   | Lunch                             ||
-| 13:45 - 14:25   | Amanda Prorok                     ||
-| 14:25 - 15:00   | Xuesu Xiao                        ||
-| 15:00 - 15:35   | Chris Amato                       ||
-| 15:35 - 16:15   | Anca Dragan                       ||
-| 16:15 - 16:50   | Dinesh Manocha                    ||
+| 13:45 - 14:25   | Anca Dragan                       ||
+| 14:25 - 15:00   | Mac Schwager                      ||
+| 15:00 - 15:35   | Dorsa Sadigh                      ||
+| 15:35 - 16:15   | Javier Alonso-Mora                ||
+| 16:15 - 16:50   | Amanda Prorok                     ||
 | 16:50 - 17:00   | Concluding Remarks                ||
 
 
