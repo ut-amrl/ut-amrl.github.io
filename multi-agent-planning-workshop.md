@@ -87,9 +87,9 @@ Important Dates
 ***
 
 *   **Submission deadline:** June 1, 2023 (AoE)
-*   **Notification of acceptance:** June 14, 2023
-*   **Camera Ready Submission:** Jun 21, 2023.
-*   **Workshop date:** July 10, 2023.
+*   **Notification of acceptance:** June 14, 2023 (AoE)
+*   **Camera Ready Submission:** Jun 21, 2023 (AoE)
+*   **Workshop date:** July 10, 2023 
 
 
 Program (subject to change)
