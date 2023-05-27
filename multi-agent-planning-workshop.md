@@ -79,7 +79,7 @@ Submission
 ---------------
 ***
 
-Submit here: [**CMT**](https://cmt3.research.microsoft.com/MultiAct2023/Submission/Index)
+Submit here: [**CMT**](https://cmt3.research.microsoft.com/MultiAct2023/Submission/Index).
 
 
 Important Dates
