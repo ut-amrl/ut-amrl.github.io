@@ -86,7 +86,7 @@ Important Dates
 ---------------
 ***
 
-*   **Submission deadline:** June 1, 2023 (AoE)
+*   **Submission deadline:** June 01, 2023 (AoE)
 *   **Notification of acceptance:** June 14, 2023 (AoE)
 *   **Camera Ready Submission:** Jun 21, 2023 (AoE)
 *   **Workshop date:** July 10, 2023 
@@ -103,9 +103,9 @@ Program (subject to change)
 | 9:50 - 10:25    | Xuesu Xiao                        ||
 | 10:25 - 11:00   | Break                             ||
 | 11:00 - 11:35   | Dinesh Manocha                    ||
-| 11:35 - 12:15   | Spotlight Talks                   ||
-| 12:15 - 13:45   | Lunch                             ||
-| 13:45 - 14:25   | Anca Dragan                       ||
+| 11:35 - 12:10   | Anca Dragan                       ||
+| 12:10 - 13:40   | Lunch                             ||
+| 13:40 - 14:25   | Spotlight Talks                   ||
 | 14:25 - 15:00   | Mac Schwager                      ||
 | 15:00 - 15:35   | Dorsa Sadigh                      ||
 | 15:35 - 16:15   | Javier Alonso-Mora                ||
