@@ -108,9 +108,9 @@ Program (subject to change)
 | 13:40 - 14:25   | Spotlight Talks                   ||
 | 14:25 - 15:00   | Mac Schwager                      ||
 | 15:00 - 15:35   | Dorsa Sadigh                      ||
-| 15:35 - 16:15   | Javier Alonso-Mora                ||
-| 16:15 - 16:50   | Amanda Prorok                     ||
-| 16:50 - 17:00   | Concluding Remarks                ||
+| 15:35 - 16:10   | Javier Alonso-Mora                ||
+| 16:10 - 16:45   | Amanda Prorok                     ||
+| 16:45 - 17:00   | Concluding Remarks                ||
 
 
   
