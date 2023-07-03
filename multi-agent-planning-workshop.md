@@ -33,10 +33,10 @@ Invited Speakers
 
 
 
-| [Xuesu Xiao](https://cs.gmu.edu/~xiao/) | [Chris Amato](https://www.ccs.neu.edu/home/camato/) | [Anca Dragan](https://people.eecs.berkeley.edu/~anca/) | [Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) |
+| [Xuesu Xiao](https://cs.gmu.edu/~xiao/) | [Chris Amato](https://www.ccs.neu.edu/home/camato/) | [Anca Dragan](https://people.eecs.berkeley.edu/~anca/) | [Matthew Gombolay](https://core-robotics.gatech.edu/) |
 | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
 | George Mason University        | Northeastern University      | UC Berkeley    | University of Maryland       |
-| <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/xuesu.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/chris.png" width=450 height=450> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/anca.png" width=550 height=550> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/dinesh.png"> |
+| <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/xuesu.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/chris.png" width=450 height=450> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/anca.png" width=550 height=550> | <img src="https://drive.google.com/uc?export=view&id=1Is1s7Dju3ri7EpaHS-LgCl9JXQAzGKFX" width=650 height=6150> |
 
 
 Call for Papers
@@ -86,7 +86,7 @@ Important Dates
 ---------------
 ***
 
-*   **Submission deadline:** June 01, 2023 (AoE)
+*   **Submission deadline:** June 01, 2023 (AoE) 
 *   **Notification of acceptance:** June 14, 2023 (AoE)
 *   **Camera Ready Submission:** Jun 21, 2023 (AoE)
 *   **Workshop date:** July 10, 2023 
@@ -100,37 +100,39 @@ Program (subject to change)
 | --------------- | --------------------------------- ||
 | 9:00 - 9:15     | Introductory Remarks              ||
 | 9:15 - 9:50     | Chris Amato                       ||
-| 9:50 - 10:25    | Xuesu Xiao                        ||
+| 9:50 - 10:25    | Xuesu Xiao                        |Learning Navigation in Challenging Environments|
 | 10:25 - 11:00   | Break                             ||
-| 11:00 - 11:35   | Dinesh Manocha                    ||
-| 11:35 - 12:10   | Anca Dragan                       ||
-| 12:10 - 13:40   | Lunch                             ||
+| 11:00 - 11:35   | Matthew Gombolay                  ||
+| 11:35 - 12:10   | Anca Dragan                       |Robust human behavior models|
+| 12:10 - 13:40   | Lunch                             |Poster Session for spotlight talks|
 | 13:40 - 14:25   | Spotlight Talks                   ||
 | 14:25 - 15:00   | Mac Schwager                      ||
 | 15:00 - 15:35   | Dorsa Sadigh                      ||
-| 15:35 - 16:10   | Javier Alonso-Mora                ||
-| 16:10 - 16:45   | Amanda Prorok                     ||
+| 15:35 - 16:10   | Javier Alonso-Mora                |Motion planning among decision-making agents: modeling uncertainty and multi-agent interaction|
+| 16:10 - 16:45   | Amanda Prorok                     |How Robots Learn to Communicate to Cooperate|
 | 16:45 - 17:00   | Concluding Remarks                ||
 
 
   
 
-<!-- #### Accepted Spotlight Papers (in order of presentation)
+Accepted Spotlight Papers
+---------------
+***
 
-1.  [Exploring Contrastive Learning with Attention for Self-Driving Generalization](https://obj.umiacs.umd.edu/badue-accepted/7.pdf)  
-    Laura Y Zheng (University of Maryland, College Park); Yu Shen (University of Maryland - College Park); Ming C Lin (UMD-CP & UNC-CH )
-2.  [Inverse Reinforcement Learning with Hybrid-weight Trust-region Optimization and Curriculum Learning for Autonomous Maneuvering](https://obj.umiacs.umd.edu/badue-accepted/3.pdf)  
-    Yu Shen (University of Maryland - College Park); Weizi Li (University of North Carolina at Chapel Hill); Ming C Lin (UMD-CP & UNC-CH )
-3.  [Imitative Planning using Conditional Normalizing Flow](https://obj.umiacs.umd.edu/badue-accepted/2.pdf)  
-    Shubhankar Agarwal (University of Texas at Austin); Harshit Sikchi (University of Texas at Austin); Cole Gulino (Uber Advanced Technologies Group); Eric Wilkinson (Uber Advanced Technologies Group ); Shivam Gautam (Aurora Innovations Inc.)
-4.  [Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments](https://obj.umiacs.umd.edu/badue-accepted/12.pdf)  
-    Shubham Kedia (University of Illinois, Urbana-Champaign); Sambhu Harimanas Karumanchi (University of Illinois, Urbana-Champaign)
-5.  [Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach](https://obj.umiacs.umd.edu/badue-accepted/8.pdf)  
-    Edoardo Pagot (University of Trento); Mattia Piccinini (University of Trento); Alice Plebe (University of Trento); Enrico Bertolazzi (University of Trento); Francesco Biral ( University of Trento)
-6.  [Data-Efficient Collaborative Decentralized Thermal-Inertial Odometry](https://obj.umiacs.umd.edu/badue-accepted/5.pdf)  
-    Vincenzo Polizzi (Robotics and Perception Group, University of Zurich); Robert Hewitt (Jet Propulsion Laboratory, California Institute of Technology); Javier Hidalgo-Carrió (University of Zurich); Jeff Delaune (Jet Propulsion Laboratory, California Institute of Technology); Davide Scaramuzza (University of Zurich & ETH Zurich, Switzerland)
-7.  [Multi-Event-Camera Depth Estimation and Outlier Rejection by Refocused Events Fusion](https://obj.umiacs.umd.edu/badue-accepted/4.pdf)  
-    Suman Ghosh (TU Berlin); Guillermo Gallego (TU Berlin) -->
+**Effective Tracking of Unknown Clustered Targets Using A Distributed Team of Mobile Robots**<br>
+Jun Chen (King Abdullah University of Science and Technology), Philip Dames (Temple University, USA), Shinkyu Park (King Abdullah University of Science and Technology)
+
+**Graph Attention Multi-Agent Fleet Autonomy for Advanced Air Mobility**<br>
+Malintha Fernando (Indiana University), Martin Swany (Indiana University), Ransalu Senanayake (Stanford University), Heeyoul Choi (Indiana University)
+
+**MIDGARD: A Simulation Platform for Autonomous Ground Robot Navigation in Unstructured Environments**<br>
+Giuseppe Vecchio (University of Catania), Simone Palazzo (University of Catania), Dario Calogero Guastella (Università degli Studi di Catania), Ignacio Carlucho (University of Edinburgh), Stefano Albrecht (University of Edinburgh), Giovanni Muscato (University of Catania), Concetto Spampinato (University of Catania) 
+
+**ST-CBS: Space-Time Conflict Based Search in Continuous Space for Multi-Agent Path Finding**<br>
+Changjoo Nam (Sogang University), Joonyeol Sim (Sogang University) 
+
+**iPLAN: Intent-Aware Planning in Heterogeneous Traffic via Distributed Multi-Agent Reinforcement Learning**<br>
+Xiyang Wu (University of Maryland, College Park), Rohan Chandra (University of Texas at Austin), Tianrui Guan (University of Maryland, College Park), Amrit Singh Bedi (University of Maryland, College Park), Dinesh Manocha (University of Maryland, College Park)
 
   
 Organizers
