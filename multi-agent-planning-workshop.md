@@ -35,7 +35,7 @@ Invited Speakers
 
 | [Xuesu Xiao](https://cs.gmu.edu/~xiao/) | [Chris Amato](https://www.ccs.neu.edu/home/camato/) | [Anca Dragan](https://people.eecs.berkeley.edu/~anca/) | [Matthew Gombolay](https://core-robotics.gatech.edu/) |
 | :--------------------: | :--------------------: | :--------------------: | :--------------------: |
-| George Mason University        | Northeastern University      | UC Berkeley    | University of Maryland       |
+| George Mason University        | Northeastern University      | UC Berkeley    | Georgia Tech       |
 | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/xuesu.png"> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/chris.png" width=450 height=450> | <img src="https://obj.umiacs.umd.edu/badue-accepted/rss/anca.png" width=550 height=550> | <img src="https://drive.google.com/uc?export=view&id=1Is1s7Dju3ri7EpaHS-LgCl9JXQAzGKFX" width=650 height=6150> |
 
 
