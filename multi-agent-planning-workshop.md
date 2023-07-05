@@ -102,7 +102,7 @@ Program (subject to change)
 | 9:15 - 9:50     | Chris Amato                       |Reinforcement Learning for Multi-Robot Coordination (and Navigation)|
 | 9:50 - 10:25    | Xuesu Xiao                        |Learning Navigation in Challenging Environments|
 | 10:25 - 11:00   | Break                             ||
-| 11:00 - 11:35   | Matthew Gombolay                  ||
+| 11:00 - 11:35   | Matthew Gombolay                  |Assume a Spherical Human…Bovine Joke Appropriation from Physics for Guidance in HRI|
 | 11:35 - 12:10   | Anca Dragan                       |Robust human behavior models|
 | 12:10 - 13:40   | Lunch                             |Poster Session for spotlight talks|
 | 13:40 - 14:25   | Spotlight Talks                   ||
