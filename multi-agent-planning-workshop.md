@@ -106,7 +106,7 @@ Program (subject to change)
 | 11:35 - 12:10   | [**Anca Dragan**](https://people.eecs.berkeley.edu/~anca/)                       |**Robust human behavior models**|
 | 12:10 - 13:40   | Lunch                             |Poster Session for spotlight talks|
 | 13:40 - 14:25   | Spotlight Talks                   ||
-| 14:25 - 15:00   | Mac Schwager                      ||
+| 14:25 - 15:00   | [**Mac Schwager**](https://web.stanford.edu/~schwager/)                      |**Game Theoretic Planning: Simultaneous Prediction and Planning for Coordinated Multi-Agent Navigation**|
 | 15:00 - 15:35   | [**Dorsa Sadigh**](https://dorsa.fyi/)                      ||
 | 15:35 - 16:10   | [**Javier Alonso-Mora**](http://www.alonsomora.com/)                |**Motion planning among decision-making agents: modeling uncertainty and multi-agent interaction**|
 | 16:10 - 16:45   | [**Amanda Prorok**](https://proroklab.org/wp/)                     |**How Robots Learn to Communicate to Cooperate**|
