@@ -99,17 +99,17 @@ Program (subject to change)
 | Time            | Event                             | Talk Title (TBA)|
 | --------------- | --------------------------------- ||
 | 9:00 - 9:15     | Introductory Remarks              ||
-| 9:15 - 9:50     | Chris Amato                       |Reinforcement Learning for Multi-Robot Coordination (and Navigation)|
-| 9:50 - 10:25    | Xuesu Xiao                        |Learning Navigation in Challenging Environments|
+| 9:15 - 9:50     | [**Chris Amato**](https://www.ccs.neu.edu/home/camato/)                       |**Reinforcement Learning for Multi-Robot Coordination (and Navigation)**|
+| 9:50 - 10:25    | [**Xuesu Xiao**](https://cs.gmu.edu/~xiao/)                        |**Learning Navigation in Challenging Environments**|
 | 10:25 - 11:00   | Break                             ||
-| 11:00 - 11:35   | Matthew Gombolay                  |Assume a Spherical Human…Bovine Joke Appropriation from Physics for Guidance in HRI|
-| 11:35 - 12:10   | Anca Dragan                       |Robust human behavior models|
+| 11:00 - 11:35   | [**Matthew Gombolay**](https://core-robotics.gatech.edu/)                  |**Assume a Spherical Human…Bovine Joke Appropriation from Physics for Guidance in HRI**|
+| 11:35 - 12:10   | [**Anca Dragan**](https://people.eecs.berkeley.edu/~anca/)                       |**Robust human behavior models**|
 | 12:10 - 13:40   | Lunch                             |Poster Session for spotlight talks|
 | 13:40 - 14:25   | Spotlight Talks                   ||
 | 14:25 - 15:00   | Mac Schwager                      ||
-| 15:00 - 15:35   | Dorsa Sadigh                      ||
-| 15:35 - 16:10   | Javier Alonso-Mora                |Motion planning among decision-making agents: modeling uncertainty and multi-agent interaction|
-| 16:10 - 16:45   | Amanda Prorok                     |How Robots Learn to Communicate to Cooperate|
+| 15:00 - 15:35   | [**Dorsa Sadigh**](https://dorsa.fyi/)                      ||
+| 15:35 - 16:10   | [**Javier Alonso-Mora**](http://www.alonsomora.com/)                |**Motion planning among decision-making agents: modeling uncertainty and multi-agent interaction**|
+| 16:10 - 16:45   | [**Amanda Prorok**](https://proroklab.org/wp/)                     |**How Robots Learn to Communicate to Cooperate**|
 | 16:45 - 17:00   | Concluding Remarks                ||
 
 
