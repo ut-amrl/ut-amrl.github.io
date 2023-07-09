@@ -103,7 +103,7 @@ Program (subject to change)
 | 9:50 - 10:25    | [**Xuesu Xiao**](https://cs.gmu.edu/~xiao/)                        |**Learning Navigation in Challenging Environments**|
 | 10:25 - 11:00   | Break                             ||
 | 11:00 - 11:35   | [**Matthew Gombolay**](https://core-robotics.gatech.edu/)                  |**Assume a Spherical Human…Bovine Joke Appropriation from Physics for Guidance in HRI**|
-| 11:35 - 12:10   | [**Anca Dragan**](https://people.eecs.berkeley.edu/~anca/)                       |**Robust human behavior models**|
+| 11:35 - 12:10   | [**Negar Mehr**](http://negar.web.illinois.edu/)                       |**Game-Theoretic Decision Making and Planning for Multi-Agent Interactions**|
 | 12:10 - 13:40   | Lunch                             |Poster Session for spotlight talks|
 | 13:40 - 14:25   | Spotlight Talks                   ||
 | 14:25 - 15:00   | [**Mac Schwager**](https://web.stanford.edu/~schwager/)                      |**Game Theoretic Planning: Simultaneous Prediction and Planning for Coordinated Multi-Agent Navigation**|
