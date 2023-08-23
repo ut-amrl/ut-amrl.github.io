@@ -92,24 +92,24 @@ Important Dates
 *   **Workshop date:** July 10, 2023 
 
 
-Program (subject to change)
+Program
 ---------------
 ***
 
-| Time            | Event                             | Talk Title (TBA)|
+| Time            | Event                             | Talk Title|
 | --------------- | --------------------------------- ||
 | 9:00 - 9:15     | Introductory Remarks              ||
 | 9:15 - 9:50     | [**Chris Amato**](https://www.ccs.neu.edu/home/camato/)                       |**Reinforcement Learning for Multi-Robot Coordination (and Navigation)**|
-| 9:50 - 10:25    | [**Xuesu Xiao**](https://cs.gmu.edu/~xiao/)                        |**Learning Navigation in Challenging Environments**|
+| 9:50 - 10:25    | [**Xuesu Xiao**](https://cs.gmu.edu/~xiao/)                        |[**Learning Navigation in Challenging Environments**](https://youtu.be/AsielUmRyGo)|
 | 10:25 - 11:00   | Break                             ||
-| 11:00 - 11:35   | [**Matthew Gombolay**](https://core-robotics.gatech.edu/)                  |**Assume a Spherical Human…Bovine Joke Appropriation from Physics for Guidance in HRI**|
-| 11:35 - 12:10   | [**Negar Mehr**](http://negar.web.illinois.edu/)                       |**Game-Theoretic Decision Making and Planning for Multi-Agent Interactions**|
+| 11:00 - 11:35   | [**Matthew Gombolay**](https://core-robotics.gatech.edu/)                  |[**Assume a Spherical Human…Bovine Joke Appropriation from Physics for Guidance in HRI**](https://youtu.be/nPx7ojuEcNQ)|
+| 11:35 - 12:10   | [**Negar Mehr**](http://negar.web.illinois.edu/)                       |[**Game-Theoretic Decision Making and Planning for Multi-Agent Interactions**](https://youtu.be/K4Z7PeOqJao)|
 | 12:10 - 13:40   | Lunch                             |Poster Session for spotlight talks|
 | 13:40 - 14:25   | Spotlight Talks                   ||
-| 14:25 - 15:00   | [**Mac Schwager**](https://web.stanford.edu/~schwager/)                      |**Game Theoretic Planning: Simultaneous Prediction and Planning for Coordinated Multi-Agent Navigation**|
-| 15:00 - 15:35   | [**Dorsa Sadigh**](https://dorsa.fyi/)                      |**Cooperative AI in the Era of Large Models**|
-| 15:35 - 16:10   | [**Javier Alonso-Mora**](http://www.alonsomora.com/)                |**Motion planning among decision-making agents: modeling uncertainty and multi-agent interaction**|
-| 16:10 - 16:45   | [**Amanda Prorok**](https://proroklab.org/wp/)                     |**How Robots Learn to Communicate to Cooperate**|
+| 14:25 - 15:00   | [**Mac Schwager**](https://web.stanford.edu/~schwager/)                      |[**Game Theoretic Planning: Simultaneous Prediction and Planning for Coordinated Multi-Agent Navigation**](https://youtu.be/aLFmkCAx8ho)|
+| 15:00 - 15:35   | [**Dorsa Sadigh**](https://dorsa.fyi/)                      |[**Cooperative AI in the Era of Large Models**](https://youtu.be/jYvbsYkFLA0)|
+| 15:35 - 16:10   | [**Javier Alonso-Mora**](http://www.alonsomora.com/)                |[**Motion planning among decision-making agents: modeling uncertainty and multi-agent interaction**](https://youtu.be/HuNGqFpbZfs)|
+| 16:10 - 16:45   | [**Amanda Prorok**](https://proroklab.org/wp/)                     |[**How Robots Learn to Communicate to Cooperate**](https://youtu.be/LfIBHlNO2I0)|
 | 16:45 - 17:00   | Concluding Remarks                ||
 
 
