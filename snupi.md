@@ -21,8 +21,8 @@ We present an approach to ensure safe and deadlock-free navigation for decentral
 Preprint
 --------  
 ***
-Coming soon.
-<!-- [PDF](https://drive.google.com/file/d/1Jm9P0FQl8-JPzVh-_OOr_6LTnn6tEO1N/view?usp=sharing). This paper is submitted to IROS 2023. This version contains minor typo and notation fixes. -->
+<!-- Coming soon. -->
+[**PDF**](https://arxiv.org/pdf/2308.10966.pdf).
 
 
 Video
