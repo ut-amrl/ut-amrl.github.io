@@ -68,7 +68,7 @@ order: 1
 
 #### Zichao Hu
 
-| ![Zichao Hu](https://drive.google.com/uc?id=1VC6GlPlYtOF6DkJcB0dCCzu7jBYCi4GV)  | |
+| ![Zichao Hu](https://drive.google.com/uc?id=1VC6GlPlYtOF6DkJcB0dCCzu7jBYCi4GV)  | | I am a Ph.D. student at the University of Texas at Austin. Prior to joining AMRL, I graduated from the University of Virginia (UVa) in 2022 with B.S in Computer Engineering. My research interests are in social navigation and vision-language navigation. 
 {: .people_table_hack}
 
 ---
