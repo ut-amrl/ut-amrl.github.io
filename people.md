@@ -68,7 +68,12 @@ order: 1
 
 #### Zichao Hu
 
-| ![Zichao Hu](https://drive.google.com/uc?id=1VC6GlPlYtOF6DkJcB0dCCzu7jBYCi4GV)  | | I am a Ph.D. student at the University of Texas at Austin. Prior to joining AMRL, I graduated from the University of Virginia (UVa) in 2022 with B.S in Computer Engineering. My research interests are in social navigation and vision-language navigation. 
+| ![Zichao Hu](https://drive.google.com/uc?id=1VC6GlPlYtOF6DkJcB0dCCzu7jBYCi4GV)  | I am a Ph.D. student at the University of Texas at Austin. Prior to joining AMRL, I graduated from the University of Virginia (UVa) in 2022 with B.S in Computer Engineering. My research interests are in social navigation and vision-language navigation. |
+{: .people_table_hack}
+
+#### Noah Patton
+
+|![Noah Patton](assets/images/people/noah_patton.jfif) | I am a PhD student in Computer Science at The University of Texas at Austin, working on neurosymbolic techniques for robotics. Broadly, I am interested in simultaneously imbuing robotic agents with high-level symbolic reasoning and low-level pattern recognition to improve the explainability of systems and their sample efficiency. Prior to entering the PhD program, I obtained my bachelor’s degree in Computer Engineering from the University of Toronto, where I worked on improving risk-sensitivity of action planning. |
 {: .people_table_hack}
 
 ---
