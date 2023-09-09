@@ -76,9 +76,9 @@ order: 1
 |![Noah Patton](assets/images/people/noah_patton.jfif) | I am a PhD student in Computer Science at The University of Texas at Austin, working on neurosymbolic techniques for robotics. Broadly, I am interested in simultaneously imbuing robotic agents with high-level symbolic reasoning and low-level pattern recognition to improve the explainability of systems and their sample efficiency. Prior to entering the PhD program, I obtained my bachelor’s degree in Computer Engineering from the University of Toronto, where I worked on improving risk-sensitivity of action planning. |
 {: .people_table_hack}
 
-#### Eric Hsiung
+#### [Eric Hsiung](https://eric-hsiung.github.io/)
 
-|![Eric Hsiung](assets/images/people/eric_hsiung.jpg) | I am a PhD student at the University of Texas at Austin, co-advised by Joydeep Biswas and Swarat Chaudhuri. I currently focus on algorithms for enabling people to interactively teach intelligent agents using interactive learning models. I recieved my MS in Computer Science from Brown University, where I focused on reinforcement learning and methods for teaching intelligent machines, and received my BS in Engineering Physics from Cornell University |
+|![Eric Hsiung](assets/images/people/eric_hsiung.jpg) | I am a PhD student at the University of Texas at Austin, co-advised by Joydeep Biswas and Swarat Chaudhuri. I currently focus on algorithms for enabling people to interactively teach intelligent agents using interactive learning models. I recieved my MS in Computer Science from Brown University, where I focused on reinforcement learning and methods for teaching intelligent machines, and received my BS in Engineering Physics from Cornell University. |
 {: .people_table_hack}
 
 ---
