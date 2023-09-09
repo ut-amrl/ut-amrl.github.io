@@ -81,6 +81,11 @@ order: 1
 |![Eric Hsiung](assets/images/people/eric_hsiung.jpg) | I am a PhD student at the University of Texas at Austin, co-advised by Joydeep Biswas and Swarat Chaudhuri. I currently focus on algorithms for enabling people to interactively teach intelligent agents using interactive learning models. I recieved my MS in Computer Science from Brown University, where I focused on reinforcement learning and methods for teaching intelligent machines, and received my BS in Engineering Physics from Cornell University. |
 {: .people_table_hack}
 
+#### [Dongmyeong Lee]
+
+|![Dongmyeong Lee](assets/images/people/dongmyeong.jpeg) | I am a PhD student in Computer Science at the University of Texas at Austin. I received my MS from the University of Michigan, Ann Arbor, conducting research on long-term autonomous navigation system at the Bipedal Robotics Laboratory. My research interests in advancing robot perception and environmental context learning for long-term autonomy. |
+{: .people_table_hack}
+
 ---
 ### Masters Students
 ---
