@@ -7,8 +7,6 @@ order: 4
 
 ### Publications
 
-List of publications, including select past contributions by lab members. 
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js">
 </script><script src="./assets/js/bib-list.js"></script>
 <link href="./assets/bib-publication-list.css" rel="stylesheet" type="text/css" />
@@ -18,7 +16,8 @@ List of publications, including select past contributions by lab members.
 <script type="text/javascript">
  var xhr = new XMLHttpRequest();
 xhr.onreadystatechange = process;
-xhr.open("GET", "./references.bib", true);
+// xhr.open("GET", "./references.bib", true);
+xhr.open("GET", "//joydeepb.com/references.bib", true);
 xhr.send();
 
 function process() {
