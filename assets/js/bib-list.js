@@ -2504,13 +2504,15 @@ var bibtexify = (function($) {
                 entryData.entryType = type;
             }
             var itemStr = htmlify(bib2html[type](entryData));
+            itemStr += bib2html.comment(entryData);
             itemStr += bib2html.links(entryData);
             itemStr += bib2html.bibtex(entryData);
             if (bib.options.tweet && entryData.url) {
                 itemStr += bib2html.tweet(entryData, bib);
             }
-            return itemStr.replace(/undefined/g,
-                                   '<span class="undefined">missing<\/span>');
+            // return itemStr.replace(/undefined/g,
+            //                        '<span class="undefined">Missing<\/span>');
+            return itemStr.replace(/undefined/g,'-');
         },
         // converts the given author data into HTML
         authors2html: function(authorData) {
@@ -2521,6 +2523,11 @@ var bibtexify = (function($) {
                 authorsStr += authorData[index].first + " " + authorData[index].last;
             }
             return htmlify(authorsStr);
+        },
+        // adds user-defined text to the item.
+        comment: function(entryData) {
+            if (entryData.comment === undefined) return '';
+            return ' ' + entryData.comment+ ' ';
         },
         // adds links to the PDF or url of the item
         links: function(entryData) {
@@ -2546,7 +2553,9 @@ var bibtexify = (function($) {
                     itemStr += '  author = { ';
                     for (var index = 0; index < value.length; index++) {
                         if (index > 0) { itemStr += " and "; }
-                        itemStr += value[index].last;
+                        itemStr += value[index].first + " " +
+                            value[index].von + " " +
+                            value[index].last;
                     }
                     itemStr += ' },\n';
                 } else if (key != 'entryType' && key != 'cite') {
@@ -2596,6 +2605,7 @@ var bibtexify = (function($) {
         misc: function(entryData) {
             return this.authors2html(entryData.author) + " (" + entryData.year + "). " +
                 entryData.title + ". " +
+                ((entryData.booktitle)? " In <em>"+entryData.booktitle + ".<\/em>" : "") +
                 ((entryData.howpublished)?entryData.howpublished + ". ":"") +
                 ((entryData.note)?entryData.note + ".":"");
         },
@@ -2632,6 +2642,7 @@ var bibtexify = (function($) {
             'manual': 10,
             'techreport': 20,
             'mastersthesis': 30,
+            'demo': 35,
             'inproceedings': 40,
             'incollection': 50,
             'proceedings': 60,
