@@ -13,10 +13,10 @@ order: 5
 
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1-mdW21SIJiF4LUlxGxQClDlZhd5iHUDP" />
+  <img src="https://raw.githubusercontent.com/ut-amrl/SocialGym2/main/assets/sg2_sim.gif" />
 </p>
 
-Visualizations
+<!-- Visualizations
 --------  
 ***
 <p align="center">
@@ -30,7 +30,7 @@ UTMRS is the simulator interface that interacts with the Human module (PedSim) a
 </p>
 
 This is how robots sense their environments in the simulator. The orange clusters represent lidar scans of the obstacles, the red cross is the local waypoint, the blue curves represent the 2D trajectory search space, and the red outer curves represent the minimum and maximum curvatures. In this Figure, we show that the search space gets clipped due to an obstacle in front.
-
+ -->
 
 Abstract
 --------  
