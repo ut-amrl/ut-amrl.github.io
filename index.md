@@ -47,8 +47,8 @@ $(document).ready(function(){
 });
 </script>
 
-The Autonomous Mobile Robotics Laboratory (AMRL), led by professor Joydeep
-Biswas, performs research in robotics to continually make robots more
+The Autonomous Mobile Robotics Laboratory (AMRL), led by professor [Joydeep
+Biswas](//www.joydeepb.com), performs research in robotics to continually make robots more
 autonomous, accurate, robust, and efficient, in real-world unstructured
 environments. We are working on a wide range of problems, including perception
 for long-term autonomy, high-speed multi-agent planning in adversarial domains,
