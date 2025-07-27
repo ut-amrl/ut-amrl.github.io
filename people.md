@@ -19,21 +19,16 @@ order: 1
 
 #### Corrie Van Sice
 
-| ![Corrie Van Sice](assets/images/people/CVanSice_Avatar_Med.png) | I recently joined the CS staff from Dartmouth College Thayer School of Engineering where I was Senior Research Engineer and manager at the Green 3Dprinting Lab.  Over the last decade, I've developed research and facilities with academic, creative and private company labs, including MakerBot Industries' R&D.  I hold a Masters from NYU Interactive Telecommunications Program, 2011, and BFAs in Interdisciplinary Studio Arts.  I can help with electronics, software, and other common issues in mechatronics, and have special expertise in additive manufacturing and digital fabrication. |
+|![Corrie Van Sice](assets/images/people/corrie_van_sice.jpg) | I recently joined the CS staff from Dartmouth College Thayer School of Engineering where I was Senior Research Engineer and manager at the Green 3Dprinting Lab.  Over the last decade, I've developed research and facilities with academic, creative and private company labs, including MakerBot Industries' R&D.  I hold a Masters from NYU Interactive Telecommunications Program, 2011, and BFAs in Interdisciplinary Studio Arts.  I can help with electronics, software, and other common issues in mechatronics, and have special expertise in additive manufacturing and digital fabrication. |
 {: .people_table_hack}
 
 ---
 ### Postdocs
 ---
 
-#### [Rohan Chandra](http://rohanchandra30.github.io/)
+#### [Nathan Tsoi](https://nathantsoi.com)
 
-|![Rohan Chandra](assets/images/people/rohan_chandra.jpg) | Rohan obtained his B.Tech from the Delhi Technological University, New Delhi in 2016 and completed his MS and PhD in 2018 and 2022 from the University of Maryland advised by Dr. Dinesh Manocha. His doctoral thesis focused on autonomous driving in dense, heterogeneous, and unstructured traffic environments, and published his work in top computer vision and robotics conferences (CVPR, ICRA, IROS, etc.). Rohan is a Microsoft Future Leader in Robotics and AI, KAUST Rising Star in AI 2023, UMD’21 Future Faculty Fellow, RSS’22 Pioneer, and he is a recipient of the UMD’20 summer research fellowship. He is currently serving as an Associate Editor for RA-L. Rohan research interests span multi-agent planning and navigation, autonomous driving, and social robot navigation.|
-{: .people_table_hack}
-
-#### [Kia Rahmani](https://kiarahmani.github.io/)
-
-|![Kia Rahmani](https://avatars1.githubusercontent.com/kiarahmani) | I obtained my PhD in 2022 from Purdue University, where I was supervised by S. Jagannathan and B. Delaware. My main research interests are symbolic analysis and synthesis of neural-powered programs, specifically designed for learning advanced long-term autonomy in mobile robotic fleets. Outsude academia, I am very passionate about martial arts, and specifically, I spend time learning and practicing the Brazilian Jiu Jitsu style of self-defense.  |
+|![Nathan Tsoi](assets/images/people/nathan_tsoi.jpg) | My doctoral work at Yale University introduced new simulation platforms, evaluation frameworks, and data-driven methods for aligning mobile robot behavior with human values. My research vision is to enable the widespread deployment of mobile robots that complete tasks reliably while interacting naturally with people. In pursuit of this vision, I am interested in developing robot learning systems that are sample efficient, robust to real-world uncertainty, and informed by technically grounded methods that predict and optimize for human-centric values.|
 {: .people_table_hack}
 
 ---
@@ -63,17 +58,17 @@ order: 1
 
 #### [Sadanand Modak](https://www.linkedin.com/in/sadanand-modak-85a9b91a9)
 
-| ![Sadanand Modak](https://drive.google.com/uc?id=1JDNDDdz5GeLDKO4lDDzuijILkWh0rr-y)  | I graduated from the Indian Institute of Technology Delhi in 2022 with B.Tech in Mechanical Engineering. I worked on projects in diverse areas during my undergrad, which include kinematics and synthesis of robotic manipulators, mutli-robot task allocation systems, computer vision, and development of soft robotic exosuit. I joined the PhD program in Computer Science at UT Austin thereafter in Fall 2022 and have been working as part of AMRL since then. My broad interests lie in long-term autonomy of mobile robots with a focus on advancing current planning/navigation and perception systems to reduce human intervention. |
+| ![Sadanand Modak](assets/images/people/sadanand_modak.jpg)  | I graduated from the Indian Institute of Technology Delhi in 2022 with B.Tech in Mechanical Engineering. I worked on projects in diverse areas during my undergrad, which include kinematics and synthesis of robotic manipulators, mutli-robot task allocation systems, computer vision, and development of soft robotic exosuit. I joined the PhD program in Computer Science at UT Austin thereafter in Fall 2022 and have been working as part of AMRL since then. My broad interests lie in long-term autonomy of mobile robots with a focus on advancing current planning/navigation and perception systems to reduce human intervention. |
 {: .people_table_hack}
 
 #### Zichao Hu
 
-| ![Zichao Hu](https://drive.google.com/uc?id=1VC6GlPlYtOF6DkJcB0dCCzu7jBYCi4GV)  | I am a Ph.D. student at the University of Texas at Austin. Prior to joining AMRL, I graduated from the University of Virginia (UVa) in 2022 with B.S in Computer Engineering. My research interests are in social navigation and vision-language navigation. |
+| ![Zichao Hu](assets/images/people/zichao_hu.jpg)  | I am a Ph.D. student at the University of Texas at Austin. Prior to joining AMRL, I graduated from the University of Virginia (UVa) in 2022 with B.S in Computer Engineering. My research interests are in social navigation and vision-language navigation. |
 {: .people_table_hack}
 
 #### Noah Patton
 
-|![Noah Patton](assets/images/people/noah_patton.jfif) | I am a PhD student in Computer Science at The University of Texas at Austin, working on neurosymbolic techniques for robotics. Broadly, I am interested in simultaneously imbuing robotic agents with high-level symbolic reasoning and low-level pattern recognition to improve the explainability of systems and their sample efficiency. Prior to entering the PhD program, I obtained my bachelor’s degree in Computer Engineering from the University of Toronto, where I worked on improving risk-sensitivity of action planning. |
+|![Noah Patton](assets/images/people/noah_patton.jpg) | I am a PhD student in Computer Science at The University of Texas at Austin, working on neurosymbolic techniques for robotics. Broadly, I am interested in simultaneously imbuing robotic agents with high-level symbolic reasoning and low-level pattern recognition to improve the explainability of systems and their sample efficiency. Prior to entering the PhD program, I obtained my bachelor’s degree in Computer Engineering from the University of Toronto, where I worked on improving risk-sensitivity of action planning. |
 {: .people_table_hack}
 
 #### [Eric Hsiung](https://eric-hsiung.github.io/)
@@ -107,7 +102,7 @@ order: 1
 
 #### Luisa Mao
 
-| ![Luisa Mao](https://drive.google.com/uc?id=1JkeUyUx4drDpECuB9oHJ4XdUEYesJGwj)  | I am an undergraduate CS major at UT Austin, and I joined AMRL in the summer of 2022. I’m currently working on navigation, path planning, and motion planning tasks. Broadly, I’m interested in autonomy and ML in motion control.|
+| ![Luisa Mao](assets/images/people/luisa_mao.jpg)  | I am an undergraduate CS major at UT Austin, and I joined AMRL in the summer of 2022. I’m currently working on navigation, path planning, and motion planning tasks. Broadly, I’m interested in autonomy and ML in motion control.|
 {: .people_table_hack}
 
 ---
@@ -117,6 +112,16 @@ order: 1
 #### Maxwell Svetlik
 
 |![Maxwell Svetlik](assets/images/people/maxwell_svetlik.jpg) ||
+{: .people_table_hack}
+
+#### [Rohan Chandra](http://rohanchandra30.github.io/)
+
+|![Rohan Chandra](assets/images/people/rohan_chandra.jpg) ||
+{: .people_table_hack}
+
+#### [Kia Rahmani](https://kiarahmani.github.io/)
+
+|![Kia Rahmani](https://avatars1.githubusercontent.com/kiarahmani) ||
 {: .people_table_hack}
 
 #### [Logan Zartman](https://zartman.org)
