@@ -40,16 +40,6 @@ order: 1
 |![Amanda Adkins](assets/images/people/amanda_adkins.jpg)  | I graduated from WPI in 2016 with a double major in Computer Science and Robotics Engineering. From 2016 to 2020, I worked at Amazon Robotics as a software development engineer. I joined AMRL and the Computer Science PhD program at UT Austin in fall 2020. My research interests include robotics, computer vision, and machine learning, with a focus on robotic perception for long-term autonomy. |
 {: .people_table_hack}
 
-#### [Jiayi Wei](https://mrvplusone.github.io/)
-
-| ![Jiayi Wei](assets/images/people/jiayi_wei.jpg)  | I graduated with a B.Sc. in physics from the University of Science and Technology of China in 2017 and joined [The UTOPIA group](http://utopia.cs.utexas.edu/) at UT the same year. My past research has been mostly focusing on fusing machine learning with programming language techniques, and I started to work with Joydeep in 2020. I am currently co-advised by him and Isil Dillig, working on probabilistic program synthesis for robot learning. |
-{: .people_table_hack}
-
-#### [Josh Hoffman](https://joshbhoffman.com/)
-
-|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  | I graduated from Northeastern University in 2020 with a B.S. in Computer Science. I am now a PhD student at UT Austin studying Computer Science. My past research has focussed on deep multi-agent reinforcement learning, and my current research interests include deep reinforcement learning, artificial intelligence, and program synthesis for autonomy. Additionally, I am a lab member of [Trishul @ UT Austin](https://trishul.us) |
-{: .people_table_hack}
-
 #### [Arthur Zhang](https://www.arthurkzhang.com)
 
 |![Arthur Zhang](assets/images/people/arthur_zhang.jpg) | I graduated from the University of Michigan, Ann Arbor with a B.S.E in Computer Engineering in 2022. There, I worked at the Computational Autonomy and Robotics Laboratory conducting research on invariant state estimation and semantic mapping. I am now in the PhD program at the Department of Computer Science at UT Austin. I am interested broadly in advancing the robustness and scalability of perception algorithms in challenging dynamic conditions. |
@@ -81,17 +71,16 @@ order: 1
 |![Dongmyeong Lee](assets/images/people/dongmyeong.jpeg) | I am a PhD student in Computer Science at the University of Texas at Austin. I received my MS from the University of Michigan, Ann Arbor, conducting research on long-term autonomous navigation system at the Bipedal Robotics Laboratory. My research interests in advancing robot perception and environmental context learning for long-term autonomy. |
 {: .people_table_hack}
 
----
-### Masters Students
----
-
 #### [Taijing Chen](https://tiejean.github.io)
 
 | ![Taijing Chen](assets/images/people/taijing_chen.jpg) | I graduated from UW Madison with a B.S. in Computer Sciences in 2021. I joined AMRL and UT Austin as a Computer Science Master student at 2021 fall. I am currently working on long-term robot perception and state estimation. | 
 {: .people_table_hack}
 
 ---
+### Masters Students
+---
 
+---
 ### Undergraduate Students
 ---
 
@@ -108,6 +97,16 @@ order: 1
 ---
 ### Previous Members
 ---
+
+#### Jiayi Wei
+
+| ![Jiayi Wei](assets/images/people/jiayi_wei.jpg)  ||
+{: .people_table_hack}
+
+#### Josh Hoffman
+
+|![Josh Hoffman](assets/images/people/josh_hoffman.jpg)  ||
+{: .people_table_hack}
 
 #### Maxwell Svetlik
 
