@@ -73,7 +73,7 @@ order: 1
 
 #### [Taijing Chen](https://tiejean.github.io)
 
-| ![Taijing Chen](assets/images/people/taijing_chen.jpg) | I graduated from UW Madison with a B.S. in Computer Sciences in 2021. I joined AMRL and UT Austin as a Computer Science Master student at 2021 fall. I am currently working on long-term robot perception and state estimation. | 
+| ![Taijing Chen](assets/images/people/taijing_chen.jpg) | I am a PhD student in Computer Science at the University of Texas at Austin. I am interested in building robots that can seamlessly integrate into everyday human environments. Currently, my research focuses on mobile manipulation, with a particular interest in long-term household robots. I develop my research on my earlier works in long-term SLAM and human motor control modeling. | 
 {: .people_table_hack}
 
 ---
