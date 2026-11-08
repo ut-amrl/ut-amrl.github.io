@@ -76,6 +76,11 @@ order: 1
 | ![Taijing Chen](assets/images/people/taijing_chen.jpg) | I am a PhD student in Computer Science at the University of Texas at Austin. I am interested in building robots that can seamlessly integrate into everyday human environments. Currently, my research focuses on mobile manipulation, with a particular interest in long-term household robots. I develop my research on my earlier works in long-term SLAM and human motor control modeling. | 
 {: .people_table_hack}
 
+#### [Rwik Rana](https://rwik2000.com/)
+
+| ![Rwik Rana](assets/images/people/rwik_rana.jpg) | I am a Ph.D. student in Computer Science at UT Austin, advised by Prof. Joydeep Biswas. My research combines controls, perception, and learning for dependable autonomy in unstructured environments, particularly off-road robotics. I previously earned my M.S. from the University of Washington and my B.Tech. from IIT Gandhinagar. |
+{: .people_table_hack}
+
 ---
 ### Masters Students
 ---
